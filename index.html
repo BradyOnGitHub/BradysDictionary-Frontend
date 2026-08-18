@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Brady's Dictionary</title>
+<link rel="stylesheet" href="dictionarystyle.css">
+</head>
+<body>
+
+  <header class="app-header">
+    <div class="header-titles">
+      <h1>Brady's Dictionary</h1>
+      <p class="tagline">/ˈbreɪ.diz ˈdɪk.ʃən.ɛr.i/</p>
+    </div>
+    <div class="header-icons">
+      <button id="aboutBtn" class="icon-btn" aria-label="About" title="About">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="20" height="20">
+          <circle cx="12" cy="12" r="10"></circle>
+          <line x1="12" y1="16" x2="12" y2="12"></line>
+          <line x1="12" y1="8" x2="12.01" y2="8"></line>
+        </svg>
+      </button>
+      <button id="settingsBtn" class="icon-btn" aria-label="Settings" title="Settings">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="20" height="20">
+          <circle cx="12" cy="12" r="3"></circle>
+          <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"></path>
+        </svg>
+      </button>
+    </div>
+  </header>
+
+  <main>
+    <div id="languageScreen" class="card">
+      <h2>Choose your language</h2>
+      <div class="language-options">
+        <button class="lang-btn" data-lang="english">English</button>
+        <button class="lang-btn" data-lang="french">Français</button>
+        <button class="lang-btn" data-lang="spanish">Español</button>
+      </div>
+    </div>
+
+    <div id="app" class="card hidden">
+      <p id="progress">Question 1 of 10</p>
+
+      <div id="quiz">
+        <p id="question"></p>
+        <div id="choices"></div>
+        <p id="result"></p>
+        <button id="nextBtn" class="hidden">Next</button>
+      </div>
+
+      <div id="endScreen" class="hidden">
+        <p id="score"></p>
+        <button id="restartBtn">Play again</button>
+      </div>
+    </div>
+  </main>
+
+  <!-- Settings modal -->
+  <div id="settingsModal" class="modal hidden">
+    <div class="modal-content">
+      <button class="modal-close" id="closeSettings" aria-label="Close settings">&times;</button>
+      <h2>Settings</h2>
+
+      <div class="setting-row">
+        <label for="darkModeToggle">Dark mode</label>
+        <label class="switch">
+          <input type="checkbox" id="darkModeToggle">
+          <span class="slider"></span>
+        </label>
+      </div>
+
+      <div class="setting-row">
+        <label for="languageSelect">Language</label>
+        <select id="languageSelect">
+          <option value="english">English</option>
+          <option value="french">Français</option>
+          <option value="spanish">Español</option>
+        </select>
+      </div>
+    </div>
+  </div>
+
+  <!-- About modal -->
+  <div id="aboutModal" class="modal hidden">
+    <div class="modal-content">
+      <button class="modal-close" id="closeAbout" aria-label="Close about">&times;</button>
+      <h2>About</h2>
+      <p>Brady's Dictionary is a short vocabulary quiz. Pick a language, work through the questions, and see how many you get right. Your language and dark mode preference are remembered for next time.</p>
+    </div>
+  </div>
+
+<script src="script.js"></script>
+</body>
+</html>
