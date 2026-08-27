@@ -1,102 +1,102 @@
 [
   {
-    "question": "grenier",
+    "question": "lama",
     "choices": [
-      "granary",
-      "to feed, to give food to",
-      "media",
-      "gull; seagull"
+      "sharp, pointed",
+      "accidental (happening by chance)",
+      "spanking",
+      "llama"
     ],
-    "answer": "granary"
+    "answer": "llama"
   },
   {
-    "question": "cannibale",
+    "question": "outil",
     "choices": [
-      "criticism, censure",
-      "cannibalistic, cannibal",
-      "morning",
-      "to cover, shelter"
+      "tool (something designed to aid in a task)",
+      "acorn",
+      "(historical) melancholy, black bile (one of the four humours of ancient and mediaeval physiology, that was believed to be secreted by the kidneys and spleen and to cause melancholy and sadness when present in excess)",
+      "(transitive) to paint"
     ],
-    "answer": "cannibalistic, cannibal"
+    "answer": "tool (something designed to aid in a task)"
   },
   {
-    "question": "purement",
+    "question": "mesdemoiselles",
     "choices": [
-      "purely, completely, totally",
-      "outdated, old-fashioned, passé, corny, behind the times",
-      "everywhere",
-      "a number or group of or about forty"
+      "mane",
+      "plural of mademoiselle",
+      "(transitive) to buckle (to fasten)",
+      "(transitive) to rack (beer or wine)"
     ],
-    "answer": "purely, completely, totally"
+    "answer": "plural of mademoiselle"
   },
   {
-    "question": "délice",
+    "question": "gradé",
     "choices": [
-      "pincer, claw",
-      "scrap, strip, shred (of cloth; flesh)",
-      "delight",
-      "sensational (very good)"
+      "cloud",
+      "disjunctive form of ils; them",
+      "(military, relational) NCO or officer",
+      "whirlwind"
     ],
-    "answer": "delight"
+    "answer": "(military, relational) NCO or officer"
   },
   {
-    "question": "suicider",
+    "question": "déposition",
     "choices": [
-      "to focus; to focalize",
-      "(pronominal) to commit suicide, to kill oneself, suicide",
-      "turret (of building, tank)",
-      "field in its various senses, including:"
+      "deposition, statement, testimony",
+      "female (of a species)",
+      "living room",
+      "building, edifice"
     ],
-    "answer": "(pronominal) to commit suicide, to kill oneself, suicide"
+    "answer": "deposition, statement, testimony"
   },
   {
-    "question": "protégé",
+    "question": "fiasco",
     "choices": [
-      "(small) pocket",
-      "past participle of protéger",
-      "whistle (instrument)",
-      "to draw up, write up, make up, whip up, put together"
+      "fiasco (situation)",
+      "seven",
+      "fifteen",
+      "congratulation"
     ],
-    "answer": "past participle of protéger"
+    "answer": "fiasco (situation)"
   },
   {
-    "question": "tourisme",
+    "question": "site",
     "choices": [
-      "smoker",
-      "worrying, disturbing, disquieting",
-      "tourism",
-      "an instance of rendering, a render"
+      "(childish) milk",
+      "from, originating from",
+      "(medicine) calculus, stone (stony concretion that forms in a bodily organ)",
+      "site"
     ],
-    "answer": "tourism"
+    "answer": "site"
   },
   {
-    "question": "espoir",
+    "question": "élément",
     "choices": [
-      "reinforcement",
-      "tomb",
-      "(all senses) hope",
-      "genie"
+      "relief (removal of stress or discomfort)",
+      "reflex",
+      "element (part of a whole)",
+      "mill; windmill"
     ],
-    "answer": "(all senses) hope"
+    "answer": "element (part of a whole)"
   },
   {
-    "question": "satin",
+    "question": "respect",
     "choices": [
-      "satin",
-      "fortress",
-      "boiler",
-      "to pile (objects), to hoard (money etc.)"
+      "garter",
+      "to doze, nap, sleep",
+      "to cast a spell, bewitch, charm, hex",
+      "respect"
     ],
-    "answer": "satin"
+    "answer": "respect"
   },
   {
-    "question": "tu",
+    "question": "infraction",
     "choices": [
-      "bamboo (plant, cane)",
-      "you (singular)",
-      "groan",
-      "to bite"
+      "to break",
+      "(transitive) to block off, to clutter, to clutter up, to congest",
+      "to elect",
+      "offense (US), departure"
     ],
-    "answer": "you (singular)"
+    "answer": "offense (US), departure"
   }
 ]
