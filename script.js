@@ -162,9 +162,9 @@ nextBtn.addEventListener("click", () => {
 
 // ---------- Share card ----------
 const LANGUAGE_LABELS = {
-  english: "English",
+  //english: "English",
   french: "French",
-  spanish: "Spanish"
+  //spanish: "Spanish"
 };
 
 function buildShareText() {
