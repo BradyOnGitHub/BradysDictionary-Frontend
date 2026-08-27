@@ -1,102 +1,102 @@
 [
   {
-    "question": "mutation",
+    "question": "grenier",
     "choices": [
-      "contraction of à + le, literally “to the, for the, at the”",
-      "cabbage",
-      "substitution",
-      "past participle of incarner"
+      "granary",
+      "to feed, to give food to",
+      "media",
+      "gull; seagull"
     ],
-    "answer": "substitution"
+    "answer": "granary"
   },
   {
-    "question": "damnation",
+    "question": "cannibale",
     "choices": [
-      "skirt, skirts (of a jacket, morning coat etc.); basque (of waistcoat)",
-      "to beg (plead for money or goods)",
-      "(transitive) to alert",
-      "damnation"
+      "criticism, censure",
+      "cannibalistic, cannibal",
+      "morning",
+      "to cover, shelter"
     ],
-    "answer": "damnation"
+    "answer": "cannibalistic, cannibal"
   },
   {
-    "question": "hériter",
+    "question": "purement",
     "choices": [
-      "loan",
-      "to inherit (to receive property or a title by legal succession etc.)",
-      "temptation",
-      "honeycomb"
+      "purely, completely, totally",
+      "outdated, old-fashioned, passé, corny, behind the times",
+      "everywhere",
+      "a number or group of or about forty"
     ],
-    "answer": "to inherit (to receive property or a title by legal succession etc.)"
+    "answer": "purely, completely, totally"
   },
   {
-    "question": "engagement",
+    "question": "délice",
     "choices": [
-      "slug",
-      "secondary",
-      "commitment",
-      "factory"
+      "pincer, claw",
+      "scrap, strip, shred (of cloth; flesh)",
+      "delight",
+      "sensational (very good)"
     ],
-    "answer": "commitment"
+    "answer": "delight"
   },
   {
-    "question": "éphémère",
+    "question": "suicider",
     "choices": [
-      "(obsolete) dust",
-      "ephemeral (lasting for only a short time; transitory)",
-      "jockey",
-      "ria"
+      "to focus; to focalize",
+      "(pronominal) to commit suicide, to kill oneself, suicide",
+      "turret (of building, tank)",
+      "field in its various senses, including:"
     ],
-    "answer": "ephemeral (lasting for only a short time; transitory)"
+    "answer": "(pronominal) to commit suicide, to kill oneself, suicide"
   },
   {
-    "question": "épicé",
+    "question": "protégé",
     "choices": [
-      "hot, spicy (having a spicy taste)",
-      "sock",
-      "fate, destiny (consequences or effects predetermined by past events or a divine will)",
-      "(ambitransitive) to wrinkle"
+      "(small) pocket",
+      "past participle of protéger",
+      "whistle (instrument)",
+      "to draw up, write up, make up, whip up, put together"
     ],
-    "answer": "hot, spicy (having a spicy taste)"
+    "answer": "past participle of protéger"
   },
   {
-    "question": "chambouler",
+    "question": "tourisme",
     "choices": [
-      "emotive",
-      "(informal) to blow off, fart",
-      "to shatter; to shake",
-      "mystic, one who practices mysticism"
+      "smoker",
+      "worrying, disturbing, disquieting",
+      "tourism",
+      "an instance of rendering, a render"
     ],
-    "answer": "to shatter; to shake"
+    "answer": "tourism"
   },
   {
-    "question": "évaluer",
+    "question": "espoir",
     "choices": [
-      "to base (have as its foundation or starting point)",
-      "fineness (of hair, writing etc.)",
-      "informant, informer – one who informs",
-      "(transitive) to assess"
+      "reinforcement",
+      "tomb",
+      "(all senses) hope",
+      "genie"
     ],
-    "answer": "(transitive) to assess"
+    "answer": "(all senses) hope"
   },
   {
-    "question": "pur",
+    "question": "satin",
     "choices": [
-      "(anatomy) bladder",
-      "(relational) telephone",
-      "goddess",
-      "pure (unspoilt)"
+      "satin",
+      "fortress",
+      "boiler",
+      "to pile (objects), to hoard (money etc.)"
     ],
-    "answer": "pure (unspoilt)"
+    "answer": "satin"
   },
   {
-    "question": "islam",
+    "question": "tu",
     "choices": [
-      "Islam",
-      "(pronominal) to collapse",
-      "writer",
-      "kneading trough"
+      "bamboo (plant, cane)",
+      "you (singular)",
+      "groan",
+      "to bite"
     ],
-    "answer": "Islam"
+    "answer": "you (singular)"
   }
 ]
