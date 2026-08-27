@@ -1,102 +1,102 @@
 [
   {
-    "question": "gaucher",
+    "question": "mutation",
     "choices": [
-      "cache, hiding place for later retrieval",
-      "drug",
-      "a sultan: a Muslim ruler with a certain title",
-      "left-handed"
+      "contraction of à + le, literally “to the, for the, at the”",
+      "cabbage",
+      "substitution",
+      "past participle of incarner"
     ],
-    "answer": "left-handed"
+    "answer": "substitution"
   },
   {
-    "question": "trajectoire",
+    "question": "damnation",
     "choices": [
-      "trajectory",
-      "(male) friend, chum, mate (UK), pal, buddy",
-      "(informal, transitive) to disorient",
-      "evil, harmful, malfeasant"
+      "skirt, skirts (of a jacket, morning coat etc.); basque (of waistcoat)",
+      "to beg (plead for money or goods)",
+      "(transitive) to alert",
+      "damnation"
     ],
-    "answer": "trajectory"
+    "answer": "damnation"
   },
   {
-    "question": "respiratoire",
+    "question": "hériter",
     "choices": [
-      "twine",
-      "respiratory",
-      "something vile and abominable; an abomination",
-      "past participle of écraser"
+      "loan",
+      "to inherit (to receive property or a title by legal succession etc.)",
+      "temptation",
+      "honeycomb"
     ],
-    "answer": "respiratory"
+    "answer": "to inherit (to receive property or a title by legal succession etc.)"
   },
   {
-    "question": "collision",
+    "question": "engagement",
     "choices": [
-      "fast (period without consuming nourishment)",
-      "flighty, fickle",
-      "(anatomy) pedal",
-      "collision (an instance of colliding)"
+      "slug",
+      "secondary",
+      "commitment",
+      "factory"
     ],
-    "answer": "collision (an instance of colliding)"
+    "answer": "commitment"
   },
   {
-    "question": "luxe",
+    "question": "éphémère",
     "choices": [
-      "lake",
-      "(intransitive) to be quiet, to be silent",
-      "luxury",
-      "(slang, vulgar) bugger, fuckwit, fucker, fuckhead, etc."
+      "(obsolete) dust",
+      "ephemeral (lasting for only a short time; transitory)",
+      "jockey",
+      "ria"
     ],
-    "answer": "luxury"
+    "answer": "ephemeral (lasting for only a short time; transitory)"
   },
   {
-    "question": "bride",
+    "question": "épicé",
     "choices": [
-      "worried",
-      "generous, kind",
-      "republic",
-      "(equestrianism) bridle"
+      "hot, spicy (having a spicy taste)",
+      "sock",
+      "fate, destiny (consequences or effects predetermined by past events or a divine will)",
+      "(ambitransitive) to wrinkle"
     ],
-    "answer": "(equestrianism) bridle"
+    "answer": "hot, spicy (having a spicy taste)"
   },
   {
-    "question": "élevage",
+    "question": "chambouler",
     "choices": [
-      "crane (bird)",
-      "livestock farming",
-      "A swallow chick",
-      "(childish) willy (British), pee-pee (US) (penis)"
+      "emotive",
+      "(informal) to blow off, fart",
+      "to shatter; to shake",
+      "mystic, one who practices mysticism"
     ],
-    "answer": "livestock farming"
+    "answer": "to shatter; to shake"
   },
   {
-    "question": "recommander",
+    "question": "évaluer",
     "choices": [
-      "underground",
-      "(transitive, dated) to worry",
-      "(transitive) to slit the throat of; to rip out the throat of",
-      "to recommend, to endorse"
+      "to base (have as its foundation or starting point)",
+      "fineness (of hair, writing etc.)",
+      "informant, informer – one who informs",
+      "(transitive) to assess"
     ],
-    "answer": "to recommend, to endorse"
+    "answer": "(transitive) to assess"
   },
   {
-    "question": "cutter",
+    "question": "pur",
     "choices": [
-      "to corrupt, impair, deprave",
-      "utility knife, box cutter, Stanley knife (tool used to cut)",
-      "here (it) is",
-      "(transitive) to grieve someone, to distress someone"
+      "(anatomy) bladder",
+      "(relational) telephone",
+      "goddess",
+      "pure (unspoilt)"
     ],
-    "answer": "utility knife, box cutter, Stanley knife (tool used to cut)"
+    "answer": "pure (unspoilt)"
   },
   {
-    "question": "algue",
+    "question": "islam",
     "choices": [
-      "necessary",
-      "alga (any of many aquatic photosynthetic organisms)",
-      "(religion, philosophy) soul",
-      "violin"
+      "Islam",
+      "(pronominal) to collapse",
+      "writer",
+      "kneading trough"
     ],
-    "answer": "alga (any of many aquatic photosynthetic organisms)"
+    "answer": "Islam"
   }
 ]
