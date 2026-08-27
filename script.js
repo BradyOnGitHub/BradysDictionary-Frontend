@@ -1,6 +1,7 @@
 let questions = [];
 let currentIndex = 0;
 let score = 0;
+let answerLog = [];
 let currentLanguage = localStorage.getItem("quizLanguage");
 
 // ---------- Element references ----------
@@ -14,6 +15,8 @@ const nextBtn = document.getElementById("nextBtn");
 const quizEl = document.getElementById("quiz");
 const endScreenEl = document.getElementById("endScreen");
 const scoreEl = document.getElementById("score");
+const shareCardEl = document.getElementById("shareCard");
+const copyShareBtn = document.getElementById("copyShareBtn");
 const restartBtn = document.getElementById("restartBtn");
 
 const settingsBtn = document.getElementById("settingsBtn");
@@ -87,6 +90,7 @@ function startQuizWithLanguage(lang) {
 function loadQuestions(lang) {
   currentIndex = 0;
   score = 0;
+  answerLog = [];
   quizEl.classList.remove("hidden");
   progressEl.classList.remove("hidden");
   endScreenEl.classList.add("hidden");
@@ -129,7 +133,10 @@ function selectAnswer(selectedBtn, correctAnswer) {
   const buttons = document.querySelectorAll(".choice");
   buttons.forEach(b => b.disabled = true);
 
-  if (selectedBtn.textContent === correctAnswer) {
+  const isCorrect = selectedBtn.textContent === correctAnswer;
+  answerLog.push(isCorrect);
+
+  if (isCorrect) {
     selectedBtn.classList.add("correct");
     resultEl.textContent = "Correct!";
     score++;
@@ -153,16 +160,55 @@ nextBtn.addEventListener("click", () => {
   }
 });
 
+// ---------- Share card ----------
+const LANGUAGE_LABELS = {
+  english: "English",
+  french: "French",
+  spanish: "Spanish"
+};
+
+function buildShareText() {
+  const langLabel = LANGUAGE_LABELS[currentLanguage] || currentLanguage;
+
+  const today = new Date();
+  const mm = String(today.getMonth() + 1).padStart(2, "0");
+  const dd = String(today.getDate()).padStart(2, "0");
+  const yyyy = today.getFullYear();
+  const dateStr = `${mm}/${dd}/${yyyy}`;
+
+  const squares = answerLog.map(correct => (correct ? "🟩" : "🟥"));
+  const rows = [];
+  for (let i = 0; i < squares.length; i += 5) {
+    rows.push(squares.slice(i, i + 5).join(""));
+  }
+
+  return [`Brady's Dictionary`, `${langLabel} ${dateStr}`, ...rows].join("\n");
+}
+
 function showEndScreen() {
   quizEl.classList.add("hidden");
   progressEl.classList.add("hidden");
   endScreenEl.classList.remove("hidden");
   scoreEl.textContent = `You scored ${score} out of ${questions.length}`;
+  shareCardEl.textContent = buildShareText();
 }
+
+copyShareBtn.addEventListener("click", () => {
+  navigator.clipboard.writeText(shareCardEl.textContent).then(() => {
+    const original = copyShareBtn.textContent;
+    copyShareBtn.textContent = "Copied!";
+    setTimeout(() => {
+      copyShareBtn.textContent = original;
+    }, 1500);
+  }).catch(() => {
+    copyShareBtn.textContent = "Couldn't copy";
+  });
+});
 
 restartBtn.addEventListener("click", () => {
   currentIndex = 0;
   score = 0;
+  answerLog = [];
   quizEl.classList.remove("hidden");
   progressEl.classList.remove("hidden");
   endScreenEl.classList.add("hidden");
