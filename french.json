@@ -1,102 +1,102 @@
 [
   {
-    "question": "lama",
+    "question": "cracher",
     "choices": [
-      "sharp, pointed",
-      "accidental (happening by chance)",
-      "spanking",
-      "llama"
+      "exclusive",
+      "to spit",
+      "proposition, suggestion",
+      "ferocious"
     ],
-    "answer": "llama"
+    "answer": "to spit"
   },
   {
-    "question": "outil",
+    "question": "tondeur",
     "choices": [
-      "tool (something designed to aid in a task)",
-      "acorn",
-      "(historical) melancholy, black bile (one of the four humours of ancient and mediaeval physiology, that was believed to be secreted by the kidneys and spleen and to cause melancholy and sadness when present in excess)",
-      "(transitive) to paint"
+      "the day before, the eve",
+      "mower, shearer",
+      "tact",
+      "despite, in spite of"
     ],
-    "answer": "tool (something designed to aid in a task)"
+    "answer": "mower, shearer"
   },
   {
-    "question": "mesdemoiselles",
+    "question": "révolte",
     "choices": [
-      "mane",
-      "plural of mademoiselle",
-      "(transitive) to buckle (to fasten)",
-      "(transitive) to rack (beer or wine)"
+      "yarn, thread, wire",
+      "attempt, try, effort (particularly of something difficult or risky)",
+      "rebellion, mutiny",
+      "to prime, set in motion"
     ],
-    "answer": "plural of mademoiselle"
+    "answer": "rebellion, mutiny"
   },
   {
-    "question": "gradé",
+    "question": "coup",
     "choices": [
-      "cloud",
-      "disjunctive form of ils; them",
-      "(military, relational) NCO or officer",
-      "whirlwind"
+      "blow, hit, strike",
+      "tax",
+      "(transitive) to deport (expel from a country)",
+      "wound"
     ],
-    "answer": "(military, relational) NCO or officer"
+    "answer": "blow, hit, strike"
   },
   {
-    "question": "déposition",
+    "question": "masseur",
     "choices": [
-      "deposition, statement, testimony",
-      "female (of a species)",
-      "living room",
-      "building, edifice"
+      "towards",
+      "(massage) masseur",
+      "superfluous",
+      "(relational) of Morocco; Moroccan"
     ],
-    "answer": "deposition, statement, testimony"
+    "answer": "(massage) masseur"
   },
   {
-    "question": "fiasco",
+    "question": "geler",
     "choices": [
-      "fiasco (situation)",
-      "seven",
-      "fifteen",
-      "congratulation"
+      "syringe",
+      "(ambitransitive) to freeze",
+      "helpful, obliging",
+      "conceited, frivolous, vain"
     ],
-    "answer": "fiasco (situation)"
+    "answer": "(ambitransitive) to freeze"
   },
   {
-    "question": "site",
+    "question": "marée",
     "choices": [
-      "(childish) milk",
-      "from, originating from",
-      "(medicine) calculus, stone (stony concretion that forms in a bodily organ)",
-      "site"
+      "(relational) division",
+      "(small) bell (for example, on a bicycle), handbell",
+      "innumerable, countless",
+      "tide"
     ],
-    "answer": "site"
+    "answer": "tide"
   },
   {
-    "question": "élément",
+    "question": "démener",
     "choices": [
-      "relief (removal of stress or discomfort)",
-      "reflex",
-      "element (part of a whole)",
-      "mill; windmill"
+      "(pronominal) to convulse, thrash about; to struggle",
+      "(informal) brothel",
+      "louse; head louse (Pediculus humanus capitis)",
+      "kettle"
     ],
-    "answer": "element (part of a whole)"
+    "answer": "(pronominal) to convulse, thrash about; to struggle"
   },
   {
-    "question": "respect",
+    "question": "sous",
     "choices": [
-      "garter",
-      "to doze, nap, sleep",
-      "to cast a spell, bewitch, charm, hex",
-      "respect"
+      "thousand; a number of about a thousand",
+      "yum",
+      "alternating",
+      "below, under"
     ],
-    "answer": "respect"
+    "answer": "below, under"
   },
   {
-    "question": "infraction",
+    "question": "prévisible",
     "choices": [
-      "to break",
-      "(transitive) to block off, to clutter, to clutter up, to congest",
-      "to elect",
-      "offense (US), departure"
+      "foreseeable, predictable",
+      "Bohemian",
+      "one who pulls",
+      "height, altitude"
     ],
-    "answer": "offense (US), departure"
+    "answer": "foreseeable, predictable"
   }
 ]
