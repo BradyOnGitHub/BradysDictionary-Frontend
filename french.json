@@ -1,102 +1,102 @@
 [
   {
-    "question": "cracher",
+    "question": "sympathique",
     "choices": [
-      "exclusive",
-      "to spit",
-      "proposition, suggestion",
-      "ferocious"
+      "nice, kind, friendly, likeable",
+      "crowd",
+      "differently, in another way or manner",
+      "(informal, slang) to understand; to get, to catch on, to twig, to cotton on"
     ],
-    "answer": "to spit"
+    "answer": "nice, kind, friendly, likeable"
   },
   {
-    "question": "tondeur",
+    "question": "limousin",
     "choices": [
-      "the day before, the eve",
-      "mower, shearer",
-      "tact",
-      "despite, in spite of"
+      "perfume (scented toiletry)",
+      "zebra",
+      "rabbit",
+      "(relational) of Limousin"
     ],
-    "answer": "mower, shearer"
+    "answer": "(relational) of Limousin"
   },
   {
-    "question": "révolte",
+    "question": "détection",
     "choices": [
-      "yarn, thread, wire",
-      "attempt, try, effort (particularly of something difficult or risky)",
-      "rebellion, mutiny",
-      "to prime, set in motion"
+      "present participle of humilier",
+      "of which, of whom, from which, from whom",
+      "detection",
+      "painting"
     ],
-    "answer": "rebellion, mutiny"
+    "answer": "detection"
   },
   {
-    "question": "coup",
+    "question": "peintre",
     "choices": [
-      "blow, hit, strike",
-      "tax",
-      "(transitive) to deport (expel from a country)",
-      "wound"
+      "(vulgar, slang, chiefly in the plural) shitter, toilet",
+      "painter (artist)",
+      "(dated, informal) To go great; to go swimmingly",
+      "incomprehensible"
     ],
-    "answer": "blow, hit, strike"
+    "answer": "painter (artist)"
   },
   {
-    "question": "masseur",
+    "question": "thème",
     "choices": [
-      "towards",
-      "(massage) masseur",
-      "superfluous",
-      "(relational) of Morocco; Moroccan"
+      "theme, topic",
+      "(plural only) darkness, the shadows",
+      "present, gift",
+      "(transitive) to terrify, horrify"
     ],
-    "answer": "(massage) masseur"
+    "answer": "theme, topic"
   },
   {
-    "question": "geler",
+    "question": "avide",
     "choices": [
-      "syringe",
-      "(ambitransitive) to freeze",
-      "helpful, obliging",
-      "conceited, frivolous, vain"
+      "base, bottom (of an object)",
+      "sexual",
+      "avid, eager, desirous",
+      "swearword, curse word"
     ],
-    "answer": "(ambitransitive) to freeze"
+    "answer": "avid, eager, desirous"
   },
   {
-    "question": "marée",
+    "question": "vodka",
     "choices": [
-      "(relational) division",
-      "(small) bell (for example, on a bicycle), handbell",
-      "innumerable, countless",
-      "tide"
+      "(transitive) to excuse (to forgive, to pardon)",
+      "vodka",
+      "small bell",
+      "movement"
     ],
-    "answer": "tide"
+    "answer": "vodka"
   },
   {
-    "question": "démener",
+    "question": "dépendance",
     "choices": [
-      "(pronominal) to convulse, thrash about; to struggle",
-      "(informal) brothel",
-      "louse; head louse (Pediculus humanus capitis)",
-      "kettle"
+      "henhouse, coop, chicken coop",
+      "florist",
+      "dependence, reliance",
+      "to grunt (for a pig, make the sound of a pig)"
     ],
-    "answer": "(pronominal) to convulse, thrash about; to struggle"
+    "answer": "dependence, reliance"
   },
   {
-    "question": "sous",
+    "question": "curieusement",
     "choices": [
-      "thousand; a number of about a thousand",
-      "yum",
-      "alternating",
-      "below, under"
+      "puff (of wind, smoke, etc.)",
+      "curiously (in a bizarre fashion)",
+      "calendar (an organized, linear system used for measuring long periods of time)",
+      "clay"
     ],
-    "answer": "below, under"
+    "answer": "curiously (in a bizarre fashion)"
   },
   {
-    "question": "prévisible",
+    "question": "adrénaline",
     "choices": [
-      "foreseeable, predictable",
-      "Bohemian",
-      "one who pulls",
-      "height, altitude"
+      "conqueror",
+      "to shoot, to shoot down, to gun down (especially with a rifle, but also with other firearms)",
+      "probationer",
+      "(biochemistry) adrenaline (epinephrine, the hormone and neurotransmitter)"
     ],
-    "answer": "foreseeable, predictable"
+    "answer": "(biochemistry) adrenaline (epinephrine, the hormone and neurotransmitter)"
   }
 ]
