@@ -1,102 +1,102 @@
 [
   {
-    "question": "sympathique",
+    "question": "reluquer",
     "choices": [
-      "nice, kind, friendly, likeable",
-      "crowd",
-      "differently, in another way or manner",
-      "(informal, slang) to understand; to get, to catch on, to twig, to cotton on"
+      "(informal) timer",
+      "to ogle, leer",
+      "(ambitransitive) to capsize",
+      "groan"
     ],
-    "answer": "nice, kind, friendly, likeable"
+    "answer": "to ogle, leer"
   },
   {
-    "question": "limousin",
+    "question": "explosion",
     "choices": [
-      "perfume (scented toiletry)",
-      "zebra",
-      "rabbit",
-      "(relational) of Limousin"
+      "explosion",
+      "quality",
+      "a (tallow) candle",
+      "to reflect (to mirror, or show the image of something)"
     ],
-    "answer": "(relational) of Limousin"
+    "answer": "explosion"
   },
   {
-    "question": "détection",
+    "question": "mitrailleur",
     "choices": [
-      "present participle of humilier",
-      "of which, of whom, from which, from whom",
-      "detection",
-      "painting"
+      "top, summit, pinnacle",
+      "ecstasy (sentiment)",
+      "machine-gunner",
+      "ham"
     ],
-    "answer": "detection"
+    "answer": "machine-gunner"
   },
   {
-    "question": "peintre",
+    "question": "préavis",
     "choices": [
-      "(vulgar, slang, chiefly in the plural) shitter, toilet",
-      "painter (artist)",
-      "(dated, informal) To go great; to go swimmingly",
-      "incomprehensible"
-    ],
-    "answer": "painter (artist)"
-  },
-  {
-    "question": "thème",
-    "choices": [
-      "theme, topic",
-      "(plural only) darkness, the shadows",
-      "present, gift",
-      "(transitive) to terrify, horrify"
-    ],
-    "answer": "theme, topic"
-  },
-  {
-    "question": "avide",
-    "choices": [
-      "base, bottom (of an object)",
-      "sexual",
-      "avid, eager, desirous",
-      "swearword, curse word"
-    ],
-    "answer": "avid, eager, desirous"
-  },
-  {
-    "question": "vodka",
-    "choices": [
-      "(transitive) to excuse (to forgive, to pardon)",
-      "vodka",
-      "small bell",
-      "movement"
-    ],
-    "answer": "vodka"
-  },
-  {
-    "question": "dépendance",
-    "choices": [
-      "henhouse, coop, chicken coop",
-      "florist",
-      "dependence, reliance",
-      "to grunt (for a pig, make the sound of a pig)"
-    ],
-    "answer": "dependence, reliance"
-  },
-  {
-    "question": "curieusement",
-    "choices": [
+      "tablecloth",
+      "notice, advance warning",
       "puff (of wind, smoke, etc.)",
-      "curiously (in a bizarre fashion)",
-      "calendar (an organized, linear system used for measuring long periods of time)",
-      "clay"
+      "(heraldry) divided into two equal parts horizontally, per fess; said of an escutcheon"
     ],
-    "answer": "curiously (in a bizarre fashion)"
+    "answer": "notice, advance warning"
   },
   {
-    "question": "adrénaline",
+    "question": "dégradant",
     "choices": [
-      "conqueror",
-      "to shoot, to shoot down, to gun down (especially with a rifle, but also with other firearms)",
-      "probationer",
-      "(biochemistry) adrenaline (epinephrine, the hormone and neurotransmitter)"
+      "llama",
+      "present participle of dégrader",
+      "joke",
+      "(intransitive) to sob"
     ],
-    "answer": "(biochemistry) adrenaline (epinephrine, the hormone and neurotransmitter)"
+    "answer": "present participle of dégrader"
+  },
+  {
+    "question": "ferveur",
+    "choices": [
+      "when",
+      "ardour, zeal, fervor",
+      "(transitive) to memorize (to fix in one's memory)",
+      "apostle"
+    ],
+    "answer": "ardour, zeal, fervor"
+  },
+  {
+    "question": "bu",
+    "choices": [
+      "smudge, blemish, smear",
+      "stained glass",
+      "interval",
+      "past participle of boire"
+    ],
+    "answer": "past participle of boire"
+  },
+  {
+    "question": "retirer",
+    "choices": [
+      "to moult (to shed or lose a covering of hair or fur, feathers, etc.)",
+      "feminine singular of bouilli",
+      "thrower",
+      "to take off; to remove (e.g. clothes)"
+    ],
+    "answer": "to take off; to remove (e.g. clothes)"
+  },
+  {
+    "question": "gigantesque",
+    "choices": [
+      "gigantic",
+      "generous, kind",
+      "(colloquial, transitive) to dig up",
+      "eyebrow"
+    ],
+    "answer": "gigantic"
+  },
+  {
+    "question": "antérieur",
+    "choices": [
+      "to flatten (to make something flat)",
+      "(colloquial, childish) kitty, pussy, a small cat",
+      "preceding, anterior",
+      "(uncountable) the celebrity"
+    ],
+    "answer": "preceding, anterior"
   }
 ]
