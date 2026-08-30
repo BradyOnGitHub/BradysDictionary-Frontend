@@ -1,102 +1,102 @@
 [
   {
-    "question": "reluquer",
+    "question": "podium",
     "choices": [
-      "(informal) timer",
-      "to ogle, leer",
-      "(ambitransitive) to capsize",
-      "groan"
+      "thermic, thermal [from 1847]",
+      "podium",
+      "fibre",
+      "(military) fougasse (land-mine)"
     ],
-    "answer": "to ogle, leer"
+    "answer": "podium"
   },
   {
-    "question": "explosion",
+    "question": "spirituel",
     "choices": [
-      "explosion",
-      "quality",
-      "a (tallow) candle",
-      "to reflect (to mirror, or show the image of something)"
+      "incomplete",
+      "hare",
+      "sufferance, pain, suffering",
+      "spiritual"
     ],
-    "answer": "explosion"
+    "answer": "spiritual"
   },
   {
-    "question": "mitrailleur",
+    "question": "parachutiste",
     "choices": [
-      "top, summit, pinnacle",
-      "ecstasy (sentiment)",
-      "machine-gunner",
-      "ham"
+      "a type of alcoholic punch from Normandy, composed of cider and calvados",
+      "swearword, curse word",
+      "parachutist",
+      "dynasty"
     ],
-    "answer": "machine-gunner"
+    "answer": "parachutist"
   },
   {
-    "question": "préavis",
+    "question": "pénétration",
     "choices": [
-      "tablecloth",
-      "notice, advance warning",
-      "puff (of wind, smoke, etc.)",
-      "(heraldry) divided into two equal parts horizontally, per fess; said of an escutcheon"
+      "roll; rolling (action of rolling)",
+      "to abuse, howl abuse at",
+      "penetration",
+      "(religion, mythology) devil"
     ],
-    "answer": "notice, advance warning"
+    "answer": "penetration"
   },
   {
-    "question": "dégradant",
+    "question": "meeting",
     "choices": [
-      "llama",
-      "present participle of dégrader",
-      "joke",
-      "(intransitive) to sob"
+      "(architecture) arch",
+      "marshal (officer in the household of a medieval prince or lord)",
+      "large, public gathering (not used in other senses of \"meeting\")",
+      "bump, jolt"
     ],
-    "answer": "present participle of dégrader"
+    "answer": "large, public gathering (not used in other senses of \"meeting\")"
   },
   {
-    "question": "ferveur",
+    "question": "indescriptible",
     "choices": [
-      "when",
-      "ardour, zeal, fervor",
-      "(transitive) to memorize (to fix in one's memory)",
-      "apostle"
+      "to advise; to inform",
+      "other",
+      "tribe",
+      "indescribable"
     ],
-    "answer": "ardour, zeal, fervor"
+    "answer": "indescribable"
   },
   {
-    "question": "bu",
+    "question": "compenser",
     "choices": [
-      "smudge, blemish, smear",
-      "stained glass",
-      "interval",
-      "past participle of boire"
+      "medallion (large decorative medal)",
+      "to compensate for, to offset",
+      "to instruct, to command",
+      "gastronome"
     ],
-    "answer": "past participle of boire"
+    "answer": "to compensate for, to offset"
   },
   {
-    "question": "retirer",
+    "question": "devinette",
     "choices": [
-      "to moult (to shed or lose a covering of hair or fur, feathers, etc.)",
-      "feminine singular of bouilli",
-      "thrower",
-      "to take off; to remove (e.g. clothes)"
+      "riddle",
+      "poisoning",
+      "bedside",
+      "(transitive) to infect with a pest or with a contagious disease"
     ],
-    "answer": "to take off; to remove (e.g. clothes)"
+    "answer": "riddle"
   },
   {
-    "question": "gigantesque",
+    "question": "bisou",
     "choices": [
-      "gigantic",
-      "generous, kind",
-      "(colloquial, transitive) to dig up",
-      "eyebrow"
+      "stockbreeder (one who raises livestock)",
+      "kiss (friendly kiss)",
+      "a counter, countertop, as of a store or bank",
+      "(music) re, the note 'D'"
     ],
-    "answer": "gigantic"
+    "answer": "kiss (friendly kiss)"
   },
   {
-    "question": "antérieur",
+    "question": "pet",
     "choices": [
-      "to flatten (to make something flat)",
-      "(colloquial, childish) kitty, pussy, a small cat",
-      "preceding, anterior",
-      "(uncountable) the celebrity"
+      "(colloquial) fart",
+      "fellow, chap",
+      "hot, spicy (having a spicy taste)",
+      "grip"
     ],
-    "answer": "preceding, anterior"
+    "answer": "(colloquial) fart"
   }
 ]
