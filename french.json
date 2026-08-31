@@ -1,102 +1,102 @@
 [
   {
-    "question": "podium",
+    "question": "assassiné",
     "choices": [
-      "thermic, thermal [from 1847]",
-      "podium",
-      "fibre",
-      "(military) fougasse (land-mine)"
+      "to connect, link, join, relate to",
+      "florist",
+      "(weaponry) club, bat",
+      "past participle of assassiner"
     ],
-    "answer": "podium"
+    "answer": "past participle of assassiner"
   },
   {
-    "question": "spirituel",
+    "question": "chevalier",
     "choices": [
-      "incomplete",
-      "hare",
-      "sufferance, pain, suffering",
-      "spiritual"
+      "knight",
+      "barrel (volume used to measure petroleum and similar products)",
+      "oar, paddle",
+      "snappy (rapid and without delay)"
     ],
-    "answer": "spiritual"
+    "answer": "knight"
   },
   {
-    "question": "parachutiste",
+    "question": "suture",
     "choices": [
-      "a type of alcoholic punch from Normandy, composed of cider and calvados",
-      "swearword, curse word",
-      "parachutist",
-      "dynasty"
+      "(surgery) suture; stitch",
+      "a horse (or team of horses) that transported a rider or coach etc from one staging post to another",
+      "burglary, robbery",
+      "insolent; cheeky; impudent"
     ],
-    "answer": "parachutist"
+    "answer": "(surgery) suture; stitch"
   },
   {
-    "question": "pénétration",
+    "question": "fâché",
     "choices": [
-      "roll; rolling (action of rolling)",
-      "to abuse, howl abuse at",
-      "penetration",
-      "(religion, mythology) devil"
+      "a wheel",
+      "angry",
+      "altar (in a church)",
+      "wrong; erroneous"
     ],
-    "answer": "penetration"
+    "answer": "angry"
   },
   {
-    "question": "meeting",
+    "question": "étudier",
     "choices": [
-      "(architecture) arch",
-      "marshal (officer in the household of a medieval prince or lord)",
-      "large, public gathering (not used in other senses of \"meeting\")",
-      "bump, jolt"
+      "to hear",
+      "week",
+      "tag, label",
+      "to study"
     ],
-    "answer": "large, public gathering (not used in other senses of \"meeting\")"
+    "answer": "to study"
   },
   {
-    "question": "indescriptible",
+    "question": "gémissement",
     "choices": [
-      "to advise; to inform",
-      "other",
-      "tribe",
-      "indescribable"
+      "ant",
+      "bait (used to catch fish)",
+      "moan, groan",
+      "commercial"
     ],
-    "answer": "indescribable"
+    "answer": "moan, groan"
   },
   {
-    "question": "compenser",
+    "question": "titrer",
     "choices": [
-      "medallion (large decorative medal)",
-      "to compensate for, to offset",
-      "to instruct, to command",
-      "gastronome"
+      "hollow",
+      "bourgeois",
+      "submachine gun",
+      "(transitive) to title (to give an honorific title to someone)"
     ],
-    "answer": "to compensate for, to offset"
+    "answer": "(transitive) to title (to give an honorific title to someone)"
   },
   {
-    "question": "devinette",
+    "question": "adjoint",
     "choices": [
-      "riddle",
-      "poisoning",
-      "bedside",
-      "(transitive) to infect with a pest or with a contagious disease"
+      "safe (free from harm)",
+      "(transitive) to index, keep a repertoire of",
+      "(intransitive) to sob",
+      "deputy, assistant"
     ],
-    "answer": "riddle"
+    "answer": "deputy, assistant"
   },
   {
-    "question": "bisou",
+    "question": "diplomatie",
     "choices": [
-      "stockbreeder (one who raises livestock)",
-      "kiss (friendly kiss)",
-      "a counter, countertop, as of a store or bank",
-      "(music) re, the note 'D'"
+      "(literary) terror, dread",
+      "the profession and study of diplomacy, conducting political relations between states",
+      "round loaf, cob loaf",
+      "reasoning (act of reasoning)"
     ],
-    "answer": "kiss (friendly kiss)"
+    "answer": "the profession and study of diplomacy, conducting political relations between states"
   },
   {
-    "question": "pet",
+    "question": "pilotage",
     "choices": [
-      "(colloquial) fart",
-      "fellow, chap",
-      "hot, spicy (having a spicy taste)",
-      "grip"
+      "(pronominal) to mistrust, to be wary of, to watch out for [with de ‘someone’]",
+      "pilotage (all senses); piloting",
+      "to joke (make a joke)",
+      "April, the fourth month of the Gregorian calendar, having 30 days"
     ],
-    "answer": "(colloquial) fart"
+    "answer": "pilotage (all senses); piloting"
   }
 ]
