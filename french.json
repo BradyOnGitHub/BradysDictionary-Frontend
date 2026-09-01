@@ -1,102 +1,102 @@
 [
   {
-    "question": "assassiné",
+    "question": "expirer",
     "choices": [
-      "to connect, link, join, relate to",
-      "florist",
-      "(weaponry) club, bat",
-      "past participle of assassiner"
+      "(transitive) to breathe out",
+      "matrix",
+      "nightingale",
+      "to pump"
     ],
-    "answer": "past participle of assassiner"
+    "answer": "(transitive) to breathe out"
   },
   {
-    "question": "chevalier",
+    "question": "daigner",
     "choices": [
-      "knight",
-      "barrel (volume used to measure petroleum and similar products)",
-      "oar, paddle",
-      "snappy (rapid and without delay)"
+      "to deign, condescend",
+      "pumpkin (fruit and plant)",
+      "post, stake",
+      "painting"
     ],
-    "answer": "knight"
+    "answer": "to deign, condescend"
   },
   {
-    "question": "suture",
+    "question": "opinion",
     "choices": [
-      "(surgery) suture; stitch",
-      "a horse (or team of horses) that transported a rider or coach etc from one staging post to another",
-      "burglary, robbery",
-      "insolent; cheeky; impudent"
+      "(anatomy) lung",
+      "opinion (thought, estimation)",
+      "scary",
+      "(formal) (of a person) late, deceased"
     ],
-    "answer": "(surgery) suture; stitch"
+    "answer": "opinion (thought, estimation)"
   },
   {
-    "question": "fâché",
+    "question": "crypte",
     "choices": [
-      "a wheel",
-      "angry",
-      "altar (in a church)",
-      "wrong; erroneous"
+      "pseudonymous, done under a pseudonym",
+      "(informal) to swipe, nick, run off with (steal)",
+      "platform, podium",
+      "a crypt"
     ],
-    "answer": "angry"
+    "answer": "a crypt"
   },
   {
-    "question": "étudier",
+    "question": "seoir",
     "choices": [
-      "to hear",
-      "week",
-      "tag, label",
-      "to study"
+      "(literary) to be suitable for; to be proper for",
+      "tree (plant, diagram, anything in the form of a tree)",
+      "to pile (objects), to hoard (money etc.)",
+      "(colloquial) ugly"
     ],
-    "answer": "to study"
+    "answer": "(literary) to be suitable for; to be proper for"
   },
   {
-    "question": "gémissement",
+    "question": "crâne",
     "choices": [
-      "ant",
-      "bait (used to catch fish)",
-      "moan, groan",
-      "commercial"
+      "(anatomy) skull, cranium",
+      "trifle (inconsequential thing)",
+      "lightning",
+      "old age"
     ],
-    "answer": "moan, groan"
+    "answer": "(anatomy) skull, cranium"
   },
   {
-    "question": "titrer",
+    "question": "mûr",
     "choices": [
-      "hollow",
-      "bourgeois",
-      "submachine gun",
-      "(transitive) to title (to give an honorific title to someone)"
+      "matured, ripe (of a fruit etc, ready to eat)",
+      "(transitive, ergative) to increase",
+      "(nautical) mast",
+      "hanging (of something or someone)"
     ],
-    "answer": "(transitive) to title (to give an honorific title to someone)"
+    "answer": "matured, ripe (of a fruit etc, ready to eat)"
   },
   {
-    "question": "adjoint",
+    "question": "rail",
     "choices": [
-      "safe (free from harm)",
-      "(transitive) to index, keep a repertoire of",
-      "(intransitive) to sob",
-      "deputy, assistant"
+      "antiquity; ancientness",
+      "rail",
+      "to sacrifice (that is, to kill) as an offering to a higher being",
+      "bite (act of biting)"
     ],
-    "answer": "deputy, assistant"
+    "answer": "rail"
   },
   {
-    "question": "diplomatie",
+    "question": "truquer",
     "choices": [
-      "(literary) terror, dread",
-      "the profession and study of diplomacy, conducting political relations between states",
-      "round loaf, cob loaf",
-      "reasoning (act of reasoning)"
+      "tree (plant, diagram, anything in the form of a tree)",
+      "to tamper with, to fiddle, to falsify",
+      "small box or chest; casket, tin, case; cassette",
+      "(transitive) to mobilize"
     ],
-    "answer": "the profession and study of diplomacy, conducting political relations between states"
+    "answer": "to tamper with, to fiddle, to falsify"
   },
   {
-    "question": "pilotage",
+    "question": "cafard",
     "choices": [
-      "(pronominal) to mistrust, to be wary of, to watch out for [with de ‘someone’]",
-      "pilotage (all senses); piloting",
-      "to joke (make a joke)",
-      "April, the fourth month of the Gregorian calendar, having 30 days"
+      "bicycle",
+      "(informal) clipping of manifestation (“demonstration, protest”)",
+      "yob; hooligan",
+      "hypocrite"
     ],
-    "answer": "pilotage (all senses); piloting"
+    "answer": "hypocrite"
   }
 ]
