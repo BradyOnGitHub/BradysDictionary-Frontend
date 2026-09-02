@@ -1,102 +1,102 @@
 [
   {
-    "question": "expirer",
+    "question": "prémonition",
     "choices": [
-      "(transitive) to breathe out",
-      "matrix",
-      "nightingale",
-      "to pump"
+      "(transitive, literally, figuratively) to tear; to rip up",
+      "effective",
+      "premonition",
+      "religion"
     ],
-    "answer": "(transitive) to breathe out"
+    "answer": "premonition"
   },
   {
-    "question": "daigner",
+    "question": "éclairage",
     "choices": [
-      "to deign, condescend",
-      "pumpkin (fruit and plant)",
-      "post, stake",
-      "painting"
+      "lighting (equipment used to provide illumination; illumination so provided)",
+      "to bite",
+      "(transitive) to cause great pain or affliction",
+      "(historical, numismatics) sou (old French coin)"
     ],
-    "answer": "to deign, condescend"
+    "answer": "lighting (equipment used to provide illumination; illumination so provided)"
   },
   {
-    "question": "opinion",
+    "question": "grimper",
     "choices": [
-      "(anatomy) lung",
-      "opinion (thought, estimation)",
-      "scary",
-      "(formal) (of a person) late, deceased"
+      "to uproot, pull up, tear out",
+      "(intransitive) (climbing) to climb, climb up",
+      "latch",
+      "tide"
     ],
-    "answer": "opinion (thought, estimation)"
+    "answer": "(intransitive) (climbing) to climb, climb up"
   },
   {
-    "question": "crypte",
+    "question": "chuchotement",
     "choices": [
-      "pseudonymous, done under a pseudonym",
-      "(informal) to swipe, nick, run off with (steal)",
-      "platform, podium",
-      "a crypt"
+      "(reflexive, se camer) to take drugs",
+      "(pronominal) to mistrust, to be wary of, to watch out for [with de ‘someone’]",
+      "robber (especially, an armed robber)",
+      "a whisper or murmur"
     ],
-    "answer": "a crypt"
+    "answer": "a whisper or murmur"
   },
   {
-    "question": "seoir",
+    "question": "galon",
     "choices": [
-      "(literary) to be suitable for; to be proper for",
-      "tree (plant, diagram, anything in the form of a tree)",
-      "to pile (objects), to hoard (money etc.)",
-      "(colloquial) ugly"
-    ],
-    "answer": "(literary) to be suitable for; to be proper for"
-  },
-  {
-    "question": "crâne",
-    "choices": [
-      "(anatomy) skull, cranium",
-      "trifle (inconsequential thing)",
       "lightning",
-      "old age"
+      "to slaughter (an animal)",
+      "ant",
+      "braid"
     ],
-    "answer": "(anatomy) skull, cranium"
+    "answer": "braid"
   },
   {
-    "question": "mûr",
+    "question": "gnôle",
     "choices": [
-      "matured, ripe (of a fruit etc, ready to eat)",
-      "(transitive, ergative) to increase",
-      "(nautical) mast",
-      "hanging (of something or someone)"
+      "(medicine) perfusion, drip, intravenous injection",
+      "(slang) hooch",
+      "past participle of damner",
+      "aid; assistance; help"
     ],
-    "answer": "matured, ripe (of a fruit etc, ready to eat)"
+    "answer": "(slang) hooch"
   },
   {
-    "question": "rail",
+    "question": "saint",
     "choices": [
-      "antiquity; ancientness",
-      "rail",
-      "to sacrifice (that is, to kill) as an offering to a higher being",
-      "bite (act of biting)"
+      "capricious; temperamental",
+      "a male saint; masculine of sainte",
+      "to repeat",
+      "ragout"
     ],
-    "answer": "rail"
+    "answer": "a male saint; masculine of sainte"
   },
   {
-    "question": "truquer",
+    "question": "vénérer",
     "choices": [
-      "tree (plant, diagram, anything in the form of a tree)",
-      "to tamper with, to fiddle, to falsify",
-      "small box or chest; casket, tin, case; cassette",
-      "(transitive) to mobilize"
+      "lemonade; a serving of lemonade",
+      "to worship, venerate, revere",
+      "(biology, taxonomy, relational) genus, generic",
+      "(transitive) to get back (something which is lost)"
     ],
-    "answer": "to tamper with, to fiddle, to falsify"
+    "answer": "to worship, venerate, revere"
   },
   {
-    "question": "cafard",
+    "question": "glander",
     "choices": [
-      "bicycle",
-      "(informal) clipping of manifestation (“demonstration, protest”)",
-      "yob; hooligan",
-      "hypocrite"
+      "artifice, trick, ploy",
+      "bait (used to catch fish)",
+      "(slang, transitive) to do",
+      "(transitive) to pour"
     ],
-    "answer": "hypocrite"
+    "answer": "(slang, transitive) to do"
+  },
+  {
+    "question": "passager",
+    "choices": [
+      "pumpkin (fruit and plant)",
+      "passenger",
+      "endurance, stamina",
+      "a wheel"
+    ],
+    "answer": "passenger"
   }
 ]
