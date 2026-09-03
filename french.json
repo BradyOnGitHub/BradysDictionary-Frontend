@@ -1,102 +1,102 @@
 [
   {
-    "question": "prémonition",
+    "question": "trop",
     "choices": [
-      "(transitive, literally, figuratively) to tear; to rip up",
-      "effective",
-      "premonition",
-      "religion"
+      "escape",
+      "past participle of enrager",
+      "too; too much",
+      "puff (of wind, smoke, etc.)"
     ],
-    "answer": "premonition"
+    "answer": "too; too much"
   },
   {
-    "question": "éclairage",
+    "question": "escroc",
     "choices": [
-      "lighting (equipment used to provide illumination; illumination so provided)",
-      "to bite",
-      "(transitive) to cause great pain or affliction",
-      "(historical, numismatics) sou (old French coin)"
+      "crook (a criminal who steals)",
+      "(cover over the engine of a motor car) bonnet (UK), hood (US)",
+      "(obsolete) piglet",
+      "(zoology) whiting"
     ],
-    "answer": "lighting (equipment used to provide illumination; illumination so provided)"
+    "answer": "crook (a criminal who steals)"
   },
   {
-    "question": "grimper",
+    "question": "initier",
     "choices": [
-      "to uproot, pull up, tear out",
-      "(intransitive) (climbing) to climb, climb up",
-      "latch",
-      "tide"
+      "statutory: having to do with an act of parliament",
+      "to initiate (to introduce into a religion, sect, art, etc.)",
+      "pill (small object to be swallowed)",
+      "isolation (detachment, exclusion)"
     ],
-    "answer": "(intransitive) (climbing) to climb, climb up"
+    "answer": "to initiate (to introduce into a religion, sect, art, etc.)"
   },
   {
-    "question": "chuchotement",
+    "question": "manqué",
     "choices": [
-      "(reflexive, se camer) to take drugs",
-      "(pronominal) to mistrust, to be wary of, to watch out for [with de ‘someone’]",
-      "robber (especially, an armed robber)",
-      "a whisper or murmur"
+      "eating a lot",
+      "yin",
+      "footbridge",
+      "past participle of manquer"
     ],
-    "answer": "a whisper or murmur"
+    "answer": "past participle of manquer"
   },
   {
-    "question": "galon",
+    "question": "expulsion",
     "choices": [
-      "lightning",
-      "to slaughter (an animal)",
-      "ant",
-      "braid"
+      "orchard",
+      "expulsion, eviction",
+      "gherkin",
+      "allegiance"
     ],
-    "answer": "braid"
+    "answer": "expulsion, eviction"
   },
   {
-    "question": "gnôle",
+    "question": "paternité",
     "choices": [
-      "(medicine) perfusion, drip, intravenous injection",
-      "(slang) hooch",
-      "past participle of damner",
-      "aid; assistance; help"
+      "curry",
+      "to walk",
+      "fatherhood",
+      "sat, sat down, seated"
     ],
-    "answer": "(slang) hooch"
+    "answer": "fatherhood"
   },
   {
-    "question": "saint",
+    "question": "argenterie",
     "choices": [
-      "capricious; temperamental",
-      "a male saint; masculine of sainte",
-      "to repeat",
-      "ragout"
+      "wisdom, reason, sense",
+      "tender (soft, delicate)",
+      "sign; signpost",
+      "silver cutlery, silverware"
     ],
-    "answer": "a male saint; masculine of sainte"
+    "answer": "silver cutlery, silverware"
   },
   {
-    "question": "vénérer",
+    "question": "sirène",
     "choices": [
-      "lemonade; a serving of lemonade",
-      "to worship, venerate, revere",
-      "(biology, taxonomy, relational) genus, generic",
-      "(transitive) to get back (something which is lost)"
+      "(informal) robbery (especially armed robbery), hold-up, stickup; raid",
+      "(informal) worthless; useless; lame",
+      "(mythology) mermaid, siren",
+      "the day before, the eve"
     ],
-    "answer": "to worship, venerate, revere"
+    "answer": "(mythology) mermaid, siren"
   },
   {
-    "question": "glander",
+    "question": "lover",
     "choices": [
-      "artifice, trick, ploy",
-      "bait (used to catch fish)",
-      "(slang, transitive) to do",
-      "(transitive) to pour"
+      "(intransitive, followed by à) to aspire (to wait, to long)",
+      "to coil (a rope or cord), to fake a line",
+      "Bohemian",
+      "to inflict, to impose"
     ],
-    "answer": "(slang, transitive) to do"
+    "answer": "to coil (a rope or cord), to fake a line"
   },
   {
-    "question": "passager",
+    "question": "vidéo",
     "choices": [
-      "pumpkin (fruit and plant)",
-      "passenger",
-      "endurance, stamina",
-      "a wheel"
+      "lining",
+      "square (as a geometrical shape)",
+      "video",
+      "engagement (before a marriage); betrothal"
     ],
-    "answer": "passenger"
+    "answer": "video"
   }
 ]
