@@ -1,102 +1,102 @@
 [
   {
-    "question": "trop",
+    "question": "mime",
     "choices": [
-      "escape",
-      "past participle of enrager",
-      "too; too much",
-      "puff (of wind, smoke, etc.)"
+      "child (someone who is not yet an adult)",
+      "pantomime actor, mime",
+      "feminine singular of gouvernant",
+      "to grip, grab, cling on to, grab hold of"
     ],
-    "answer": "too; too much"
+    "answer": "pantomime actor, mime"
   },
   {
-    "question": "escroc",
+    "question": "gym",
     "choices": [
-      "crook (a criminal who steals)",
-      "(cover over the engine of a motor car) bonnet (UK), hood (US)",
-      "(obsolete) piglet",
-      "(zoology) whiting"
+      "candidate",
+      "(transitive) to hate",
+      "clipping of gymnastique",
+      "stretcher (for carrying injured people, etc.)"
     ],
-    "answer": "crook (a criminal who steals)"
+    "answer": "clipping of gymnastique"
   },
   {
-    "question": "initier",
+    "question": "médium",
     "choices": [
-      "statutory: having to do with an act of parliament",
-      "to initiate (to introduce into a religion, sect, art, etc.)",
-      "pill (small object to be swallowed)",
-      "isolation (detachment, exclusion)"
+      "athlete",
+      "calumny; slander",
+      "(music) middle register",
+      "bole (of tree)"
     ],
-    "answer": "to initiate (to introduce into a religion, sect, art, etc.)"
+    "answer": "(music) middle register"
   },
   {
-    "question": "manqué",
+    "question": "supérieur",
     "choices": [
-      "eating a lot",
-      "yin",
-      "footbridge",
-      "past participle of manquer"
+      "to pledge, commit",
+      "superior",
+      "family (group of related people)",
+      "eater"
     ],
-    "answer": "past participle of manquer"
+    "answer": "superior"
   },
   {
-    "question": "expulsion",
+    "question": "promener",
     "choices": [
-      "orchard",
-      "expulsion, eviction",
-      "gherkin",
-      "allegiance"
+      "(vulgar, derogatory) bitch, whore, cunt (objectionable woman)",
+      "harmless",
+      "rune",
+      "(reflexive) to walk (leisurely), to go for a walk, to stroll"
     ],
-    "answer": "expulsion, eviction"
+    "answer": "(reflexive) to walk (leisurely), to go for a walk, to stroll"
   },
   {
-    "question": "paternité",
+    "question": "offensive",
     "choices": [
-      "curry",
-      "to walk",
-      "fatherhood",
-      "sat, sat down, seated"
+      "(rare) lively, briskly, quickly",
+      "cigarette butt, fag end",
+      "(military) offensive (an attack)",
+      "(informal) trip"
     ],
-    "answer": "fatherhood"
+    "answer": "(military) offensive (an attack)"
   },
   {
-    "question": "argenterie",
+    "question": "éternellement",
     "choices": [
-      "wisdom, reason, sense",
-      "tender (soft, delicate)",
-      "sign; signpost",
-      "silver cutlery, silverware"
+      "first/second-person singular past historic of remettre",
+      "bleeding",
+      "descent (act of going down)",
+      "eternally"
     ],
-    "answer": "silver cutlery, silverware"
+    "answer": "eternally"
   },
   {
-    "question": "sirène",
+    "question": "amnésie",
     "choices": [
-      "(informal) robbery (especially armed robbery), hold-up, stickup; raid",
-      "(informal) worthless; useless; lame",
-      "(mythology) mermaid, siren",
-      "the day before, the eve"
+      "amnesia",
+      "saucer",
+      "pretty; cute",
+      "(dated) fold (enclosure for animals)"
     ],
-    "answer": "(mythology) mermaid, siren"
+    "answer": "amnesia"
   },
   {
-    "question": "lover",
+    "question": "corridor",
     "choices": [
-      "(intransitive, followed by à) to aspire (to wait, to long)",
-      "to coil (a rope or cord), to fake a line",
-      "Bohemian",
-      "to inflict, to impose"
+      "to advise",
+      "corridor, passage",
+      "shame (feeling)",
+      "astute"
     ],
-    "answer": "to coil (a rope or cord), to fake a line"
+    "answer": "corridor, passage"
   },
   {
-    "question": "vidéo",
+    "question": "inacceptable",
     "choices": [
-      "lining",
-      "square (as a geometrical shape)",
-      "video",
-      "engagement (before a marriage); betrothal"
+      "(reflexive) to lament; to bewail; to bemoan",
+      "contribution, input",
+      "hovel; dive",
+      "unacceptable"
     ],
-    "answer": "video"
+    "answer": "unacceptable"
   }
 ]
