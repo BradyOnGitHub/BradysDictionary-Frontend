@@ -1,102 +1,102 @@
 [
   {
-    "question": "mime",
+    "question": "déprime",
     "choices": [
-      "child (someone who is not yet an adult)",
-      "pantomime actor, mime",
-      "feminine singular of gouvernant",
-      "to grip, grab, cling on to, grab hold of"
+      "inflection of déprimer:",
+      "sex (the biological category)",
+      "a show, a spectacle, a performance, a concert",
+      "tranquility, peace, calm, calmness, quietness"
     ],
-    "answer": "pantomime actor, mime"
+    "answer": "inflection of déprimer:"
   },
   {
-    "question": "gym",
+    "question": "unanime",
     "choices": [
-      "candidate",
-      "(transitive) to hate",
-      "clipping of gymnastique",
-      "stretcher (for carrying injured people, etc.)"
+      "snappy (rapid and without delay)",
+      "to shoot, to shoot down, to gun down (especially with a rifle, but also with other firearms)",
+      "plural of fond",
+      "unanimous"
     ],
-    "answer": "clipping of gymnastique"
+    "answer": "unanimous"
   },
   {
-    "question": "médium",
+    "question": "excentrique",
     "choices": [
-      "athlete",
-      "calumny; slander",
-      "(music) middle register",
-      "bole (of tree)"
+      "(literary) Worthy of utmost contempt or disgust; vile; despicable",
+      "bank transfer, wire transfer",
+      "eccentric (away from the centre)",
+      "to stroke gently, to touch lightly"
     ],
-    "answer": "(music) middle register"
+    "answer": "eccentric (away from the centre)"
   },
   {
-    "question": "supérieur",
+    "question": "mat",
     "choices": [
-      "to pledge, commit",
-      "superior",
-      "family (group of related people)",
-      "eater"
+      "goatskin, wine skin, water skin",
+      "to divert",
+      "spice",
+      "matt"
     ],
-    "answer": "superior"
+    "answer": "matt"
   },
   {
-    "question": "promener",
+    "question": "disciple",
     "choices": [
-      "(vulgar, derogatory) bitch, whore, cunt (objectionable woman)",
-      "harmless",
-      "rune",
-      "(reflexive) to walk (leisurely), to go for a walk, to stroll"
+      "lately, of late (in the recent past)",
+      "disciple",
+      "highness, Highness (title of respect)",
+      "squadron"
     ],
-    "answer": "(reflexive) to walk (leisurely), to go for a walk, to stroll"
+    "answer": "disciple"
   },
   {
-    "question": "offensive",
+    "question": "doyen",
     "choices": [
-      "(rare) lively, briskly, quickly",
-      "cigarette butt, fag end",
-      "(military) offensive (an attack)",
-      "(informal) trip"
+      "ballade (lyric poem)",
+      "saying, maxim, proverb, adage",
+      "(transitive) to clean by scrubbing, scraping and removing (e.g. a drain, a pipe, a canal, a stable, ...)",
+      "(religion, education) dean"
     ],
-    "answer": "(military) offensive (an attack)"
+    "answer": "(religion, education) dean"
   },
   {
-    "question": "éternellement",
+    "question": "maillot",
     "choices": [
-      "first/second-person singular past historic of remettre",
-      "bleeding",
-      "descent (act of going down)",
-      "eternally"
+      "November",
+      "wisdom, reason, sense",
+      "consideration",
+      "(clothing) vest"
     ],
-    "answer": "eternally"
+    "answer": "(clothing) vest"
   },
   {
-    "question": "amnésie",
+    "question": "vélo",
     "choices": [
-      "amnesia",
-      "saucer",
-      "pretty; cute",
-      "(dated) fold (enclosure for animals)"
+      "swearword, curse word",
+      "expropriation",
+      "baked custard tart",
+      "(usually informal) bike, bicycle, cycle"
     ],
-    "answer": "amnesia"
+    "answer": "(usually informal) bike, bicycle, cycle"
   },
   {
-    "question": "corridor",
+    "question": "paumer",
     "choices": [
-      "to advise",
-      "corridor, passage",
-      "shame (feeling)",
-      "astute"
+      "dungeon, prison",
+      "collapse",
+      "(obsolete) to strike, hit",
+      "crumb (of bread or cake)"
     ],
-    "answer": "corridor, passage"
+    "answer": "(obsolete) to strike, hit"
   },
   {
-    "question": "inacceptable",
+    "question": "clip",
     "choices": [
-      "(reflexive) to lament; to bewail; to bemoan",
-      "contribution, input",
-      "hovel; dive",
-      "unacceptable"
+      "(mythology) unicorn",
+      "humidity; moisture, wetness, dampness",
+      "music video",
+      "to sparkle, twinkle"
     ],
-    "answer": "unacceptable"
+    "answer": "music video"
   }
 ]
