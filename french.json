@@ -1,102 +1,102 @@
 [
   {
-    "question": "déprime",
+    "question": "loyal",
     "choices": [
-      "inflection of déprimer:",
-      "sex (the biological category)",
-      "a show, a spectacle, a performance, a concert",
-      "tranquility, peace, calm, calmness, quietness"
+      "walrus",
+      "loyal",
+      "(chiefly of an animal) diving (that or who dives)",
+      "possible, hypothetical (that might come about)"
     ],
-    "answer": "inflection of déprimer:"
+    "answer": "loyal"
   },
   {
-    "question": "unanime",
+    "question": "temple",
     "choices": [
-      "snappy (rapid and without delay)",
-      "to shoot, to shoot down, to gun down (especially with a rifle, but also with other firearms)",
-      "plural of fond",
-      "unanimous"
+      "roast beef",
+      "(slang) titty, boob (breast)",
+      "clinical",
+      "temple (for worship)"
     ],
-    "answer": "unanimous"
+    "answer": "temple (for worship)"
   },
   {
-    "question": "excentrique",
+    "question": "faire",
     "choices": [
-      "(literary) Worthy of utmost contempt or disgust; vile; despicable",
-      "bank transfer, wire transfer",
-      "eccentric (away from the centre)",
-      "to stroke gently, to touch lightly"
+      "the act of frying",
+      "mosquito",
+      "penance",
+      "(transitive) to do"
     ],
-    "answer": "eccentric (away from the centre)"
+    "answer": "(transitive) to do"
   },
   {
-    "question": "mat",
+    "question": "espace",
     "choices": [
-      "goatskin, wine skin, water skin",
-      "to divert",
-      "spice",
-      "matt"
+      "meal, repast",
+      "to enjoy, to benefit from, to get, to receive [with de ‘something’]",
+      "tunnel",
+      "space"
     ],
-    "answer": "matt"
+    "answer": "space"
   },
   {
-    "question": "disciple",
+    "question": "bisou",
     "choices": [
-      "lately, of late (in the recent past)",
-      "disciple",
-      "highness, Highness (title of respect)",
-      "squadron"
+      "remission",
+      "small boat",
+      "(intransitive) to ice-skate",
+      "kiss (friendly kiss)"
     ],
-    "answer": "disciple"
+    "answer": "kiss (friendly kiss)"
   },
   {
-    "question": "doyen",
+    "question": "égoïste",
     "choices": [
-      "ballade (lyric poem)",
-      "saying, maxim, proverb, adage",
-      "(transitive) to clean by scrubbing, scraping and removing (e.g. a drain, a pipe, a canal, a stable, ...)",
-      "(religion, education) dean"
+      "selfish; egotistic",
+      "financial payment, benefit",
+      "Aryan",
+      "tidy, neat"
     ],
-    "answer": "(religion, education) dean"
+    "answer": "selfish; egotistic"
   },
   {
-    "question": "maillot",
+    "question": "clochette",
     "choices": [
-      "November",
-      "wisdom, reason, sense",
-      "consideration",
-      "(clothing) vest"
+      "to pile up",
+      "raspberry (fruit)",
+      "majesty (greatness)",
+      "(little) bell"
     ],
-    "answer": "(clothing) vest"
+    "answer": "(little) bell"
   },
   {
-    "question": "vélo",
+    "question": "capable",
     "choices": [
-      "swearword, curse word",
-      "expropriation",
-      "baked custard tart",
-      "(usually informal) bike, bicycle, cycle"
+      "century (period of 100 years)",
+      "able, capable",
+      "to have a premonition",
+      "lightning bolt"
     ],
-    "answer": "(usually informal) bike, bicycle, cycle"
+    "answer": "able, capable"
   },
   {
-    "question": "paumer",
+    "question": "inaperçu",
     "choices": [
-      "dungeon, prison",
-      "collapse",
-      "(obsolete) to strike, hit",
-      "crumb (of bread or cake)"
+      "accomplished",
+      "unnoticed, unobserved",
+      "(law) court clerk's office, court registrar's office",
+      "pepper (spice)"
     ],
-    "answer": "(obsolete) to strike, hit"
+    "answer": "unnoticed, unobserved"
   },
   {
-    "question": "clip",
+    "question": "émouvoir",
     "choices": [
-      "(mythology) unicorn",
-      "humidity; moisture, wetness, dampness",
-      "music video",
-      "to sparkle, twinkle"
+      "psychology",
+      "(relational) customs",
+      "to move emotionally; to touch",
+      "past participle of coudre"
     ],
-    "answer": "music video"
+    "answer": "to move emotionally; to touch"
   }
 ]
