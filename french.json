@@ -1,102 +1,102 @@
 [
   {
-    "question": "loyal",
+    "question": "verdict",
     "choices": [
-      "walrus",
-      "loyal",
-      "(chiefly of an animal) diving (that or who dives)",
-      "possible, hypothetical (that might come about)"
+      "verdict",
+      "to sulk, pout",
+      "torture",
+      "nonstandard spelling of sœurette"
     ],
-    "answer": "loyal"
+    "answer": "verdict"
   },
   {
-    "question": "temple",
+    "question": "broder",
     "choices": [
-      "roast beef",
-      "(slang) titty, boob (breast)",
-      "clinical",
-      "temple (for worship)"
+      "cloakroom; (US) checkroom, coatroom, coat check (a room intended for holding guests' cloaks and other heavy outerwear, as at a theater or night club)",
+      "to embroider",
+      "to disentangle (threads)",
+      "to shake, to wave (to move back and forth)"
     ],
-    "answer": "temple (for worship)"
+    "answer": "to embroider"
   },
   {
-    "question": "faire",
+    "question": "adoptif",
     "choices": [
-      "the act of frying",
-      "mosquito",
-      "penance",
-      "(transitive) to do"
+      "boarding school",
+      "to throw",
+      "(relational) adoption; adoptive",
+      "(archaic) immediately"
     ],
-    "answer": "(transitive) to do"
+    "answer": "(relational) adoption; adoptive"
   },
   {
-    "question": "espace",
+    "question": "désespérément",
     "choices": [
-      "meal, repast",
-      "to enjoy, to benefit from, to get, to receive [with de ‘something’]",
-      "tunnel",
-      "space"
+      "(bullfighting) a bullfight",
+      "mushroom",
+      "desperately",
+      "mink"
     ],
-    "answer": "space"
+    "answer": "desperately"
   },
   {
-    "question": "bisou",
+    "question": "crocodile",
     "choices": [
-      "remission",
-      "small boat",
-      "(intransitive) to ice-skate",
-      "kiss (friendly kiss)"
+      "need",
+      "(ordinal number) second",
+      "crocodile",
+      "(transitive) to risk, to put at risk"
     ],
-    "answer": "kiss (friendly kiss)"
+    "answer": "crocodile"
   },
   {
-    "question": "égoïste",
+    "question": "rapidité",
     "choices": [
-      "selfish; egotistic",
-      "financial payment, benefit",
-      "Aryan",
-      "tidy, neat"
+      "comic",
+      "drunkenness (the state of being intoxicated by having consumed alcoholic beverages)",
+      "company, business",
+      "swiftness, fastness, quickness"
     ],
-    "answer": "selfish; egotistic"
+    "answer": "swiftness, fastness, quickness"
   },
   {
-    "question": "clochette",
+    "question": "étonnant",
     "choices": [
-      "to pile up",
-      "raspberry (fruit)",
-      "majesty (greatness)",
-      "(little) bell"
+      "killing (massacre)",
+      "amazing; surprising; astonishing",
+      "tumor",
+      "bold, audacious (courageous, daring)"
     ],
-    "answer": "(little) bell"
+    "answer": "amazing; surprising; astonishing"
   },
   {
-    "question": "capable",
+    "question": "tardif",
     "choices": [
-      "century (period of 100 years)",
-      "able, capable",
-      "to have a premonition",
-      "lightning bolt"
+      "walk, ramble, trek (for pleasure)",
+      "severely",
+      "opinion",
+      "late, belated"
     ],
-    "answer": "able, capable"
+    "answer": "late, belated"
   },
   {
-    "question": "inaperçu",
+    "question": "envelopper",
     "choices": [
-      "accomplished",
-      "unnoticed, unobserved",
-      "(law) court clerk's office, court registrar's office",
-      "pepper (spice)"
+      "(ergative) (to cause) to go mouldy, to moulder",
+      "to wrap someone or something, to cover",
+      "to gnaw",
+      "(pronominal) to abstain"
     ],
-    "answer": "unnoticed, unobserved"
+    "answer": "to wrap someone or something, to cover"
   },
   {
-    "question": "émouvoir",
+    "question": "cheveu",
     "choices": [
-      "psychology",
-      "(relational) customs",
-      "to move emotionally; to touch",
-      "past participle of coudre"
+      "a stag, a hart",
+      "ant",
+      "a headhair",
+      "atom (particle)"
     ],
-    "answer": "to move emotionally; to touch"
+    "answer": "a headhair"
   }
 ]
