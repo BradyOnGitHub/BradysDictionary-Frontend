@@ -1,102 +1,102 @@
 [
   {
-    "question": "verdict",
+    "question": "suggérer",
     "choices": [
-      "verdict",
-      "to sulk, pout",
-      "torture",
-      "nonstandard spelling of sœurette"
+      "to suggest, propose",
+      "(intransitive) to decline, to fade away, to wither away, to go downhill",
+      "trapper (especially for fur)",
+      "bee, honey bee"
     ],
-    "answer": "verdict"
+    "answer": "to suggest, propose"
   },
   {
-    "question": "broder",
+    "question": "cendrier",
     "choices": [
-      "cloakroom; (US) checkroom, coatroom, coat check (a room intended for holding guests' cloaks and other heavy outerwear, as at a theater or night club)",
-      "to embroider",
-      "to disentangle (threads)",
-      "to shake, to wave (to move back and forth)"
+      "ash pan",
+      "(transitive) to grieve someone, to distress someone",
+      "garden",
+      "to almost do something"
     ],
-    "answer": "to embroider"
+    "answer": "ash pan"
   },
   {
-    "question": "adoptif",
+    "question": "cirage",
     "choices": [
-      "boarding school",
-      "to throw",
-      "(relational) adoption; adoptive",
-      "(archaic) immediately"
+      "fellow, chap",
+      "eyebrow",
+      "polish (product used to make things shiny)",
+      "yoke"
     ],
-    "answer": "(relational) adoption; adoptive"
+    "answer": "polish (product used to make things shiny)"
   },
   {
-    "question": "désespérément",
+    "question": "fenêtre",
     "choices": [
-      "(bullfighting) a bullfight",
-      "mushroom",
-      "desperately",
-      "mink"
+      "lazy",
+      "window",
+      "One who suffers from dementia, who is insane",
+      "(France) the highest non-commissioned officer rank: sergeant major, “major”"
     ],
-    "answer": "desperately"
+    "answer": "window"
   },
   {
-    "question": "crocodile",
+    "question": "massif",
     "choices": [
-      "need",
-      "(ordinal number) second",
-      "crocodile",
-      "(transitive) to risk, to put at risk"
+      "massif",
+      "female equivalent of parrain: godmother (woman present at the christening of a baby who promises to help raise the child in a Christian manner)",
+      "(zoology) glandered",
+      "sacrilegious"
     ],
-    "answer": "crocodile"
+    "answer": "massif"
   },
   {
-    "question": "rapidité",
+    "question": "vêtement",
     "choices": [
-      "comic",
-      "drunkenness (the state of being intoxicated by having consumed alcoholic beverages)",
-      "company, business",
-      "swiftness, fastness, quickness"
+      "to mistreat",
+      "garment, item of clothing",
+      "to sow (scatter seed, etc.)",
+      "sign, notice"
     ],
-    "answer": "swiftness, fastness, quickness"
+    "answer": "garment, item of clothing"
   },
   {
-    "question": "étonnant",
+    "question": "naturellement",
     "choices": [
-      "killing (massacre)",
-      "amazing; surprising; astonishing",
-      "tumor",
-      "bold, audacious (courageous, daring)"
+      "beacon (e.g., a signal fire)",
+      "clock",
+      "naturally",
+      "ewe"
     ],
-    "answer": "amazing; surprising; astonishing"
+    "answer": "naturally"
   },
   {
-    "question": "tardif",
+    "question": "chair",
     "choices": [
-      "walk, ramble, trek (for pleasure)",
-      "severely",
-      "opinion",
-      "late, belated"
+      "rag",
+      "(archaic) faugh, fie, bah, pooh",
+      "flesh",
+      "wicker basket"
     ],
-    "answer": "late, belated"
+    "answer": "flesh"
   },
   {
-    "question": "envelopper",
+    "question": "martyre",
     "choices": [
-      "(ergative) (to cause) to go mouldy, to moulder",
-      "to wrap someone or something, to cover",
-      "to gnaw",
-      "(pronominal) to abstain"
+      "feminine singular of blanc",
+      "pane of glass, window pane",
+      "martyrdom",
+      "stallion (uncastrated male horse)"
     ],
-    "answer": "to wrap someone or something, to cover"
+    "answer": "martyrdom"
   },
   {
-    "question": "cheveu",
+    "question": "accessoire",
     "choices": [
-      "a stag, a hart",
-      "ant",
-      "a headhair",
-      "atom (particle)"
+      "complicated, intricate, convoluted",
+      "myth (story)",
+      "accessory",
+      "January"
     ],
-    "answer": "a headhair"
+    "answer": "accessory"
   }
 ]
