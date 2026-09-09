@@ -1,102 +1,102 @@
 [
   {
-    "question": "suggérer",
+    "question": "engloutir",
     "choices": [
-      "to suggest, propose",
-      "(intransitive) to decline, to fade away, to wither away, to go downhill",
-      "trapper (especially for fur)",
-      "bee, honey bee"
+      "buyer, purchaser (person who makes purchases)",
+      "(transitive) to gulp",
+      "upwards, climbing",
+      "clemency (moderation of the severity of a punishment)"
     ],
-    "answer": "to suggest, propose"
+    "answer": "(transitive) to gulp"
   },
   {
-    "question": "cendrier",
+    "question": "désigner",
     "choices": [
-      "ash pan",
-      "(transitive) to grieve someone, to distress someone",
-      "garden",
-      "to almost do something"
+      "The seventeenth letter of the French alphabet, written in the Latin script.",
+      "twine",
+      "to designate",
+      "reassuring"
     ],
-    "answer": "ash pan"
+    "answer": "to designate"
   },
   {
-    "question": "cirage",
+    "question": "allaiter",
     "choices": [
-      "fellow, chap",
-      "eyebrow",
-      "polish (product used to make things shiny)",
-      "yoke"
+      "to prevent, to avert, to guard against",
+      "(colloquial) trick, scheme",
+      "(transitive) to breastfeed",
+      "lilac (plant and colour)"
     ],
-    "answer": "polish (product used to make things shiny)"
+    "answer": "(transitive) to breastfeed"
   },
   {
-    "question": "fenêtre",
+    "question": "bouleversé",
     "choices": [
-      "lazy",
-      "window",
-      "One who suffers from dementia, who is insane",
-      "(France) the highest non-commissioned officer rank: sergeant major, “major”"
+      "past participle of bouleverser",
+      "Saturday",
+      "sweat, perspiration",
+      "birth"
     ],
-    "answer": "window"
+    "answer": "past participle of bouleverser"
   },
   {
-    "question": "massif",
+    "question": "morgue",
     "choices": [
-      "massif",
-      "female equivalent of parrain: godmother (woman present at the christening of a baby who promises to help raise the child in a Christian manner)",
-      "(zoology) glandered",
-      "sacrilegious"
+      "to admire",
+      "to entangle",
+      "morgue, mortuary (place where dead bodies are stored)",
+      "barley"
     ],
-    "answer": "massif"
+    "answer": "morgue, mortuary (place where dead bodies are stored)"
   },
   {
-    "question": "vêtement",
+    "question": "religieux",
     "choices": [
-      "to mistreat",
-      "garment, item of clothing",
-      "to sow (scatter seed, etc.)",
-      "sign, notice"
+      "comparison",
+      "conqueror",
+      "religious",
+      "(transitive) to milk (a cow, etc)"
     ],
-    "answer": "garment, item of clothing"
+    "answer": "religious"
   },
   {
-    "question": "naturellement",
+    "question": "miche",
     "choices": [
-      "beacon (e.g., a signal fire)",
-      "clock",
-      "naturally",
-      "ewe"
+      "(of a place, usually literary) distant, remote, far-off",
+      "past participle of déguiser",
+      "round loaf, cob loaf",
+      "conqueror"
     ],
-    "answer": "naturally"
+    "answer": "round loaf, cob loaf"
   },
   {
-    "question": "chair",
+    "question": "gigantesque",
     "choices": [
-      "rag",
-      "(archaic) faugh, fie, bah, pooh",
-      "flesh",
-      "wicker basket"
+      "gigantic",
+      "solidary, showing solidarity (with)",
+      "pound (place for the detention of stray animals)",
+      "(sports, uncountable) rowing"
     ],
-    "answer": "flesh"
+    "answer": "gigantic"
   },
   {
-    "question": "martyre",
+    "question": "sudiste",
     "choices": [
-      "feminine singular of blanc",
-      "pane of glass, window pane",
-      "martyrdom",
-      "stallion (uncastrated male horse)"
+      "far, distant",
+      "rocket (vehicle)",
+      "southern",
+      "to set up; to establish"
     ],
-    "answer": "martyrdom"
+    "answer": "southern"
   },
   {
-    "question": "accessoire",
+    "question": "fondation",
     "choices": [
-      "complicated, intricate, convoluted",
-      "myth (story)",
-      "accessory",
-      "January"
+      "idiocy (state of being an idiot)",
+      "(transitive) to recite, to declaim",
+      "hypocrite",
+      "foundation (act of founding)"
     ],
-    "answer": "accessory"
+    "answer": "foundation (act of founding)"
   }
 ]
