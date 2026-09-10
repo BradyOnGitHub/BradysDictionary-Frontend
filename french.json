@@ -1,102 +1,102 @@
 [
   {
-    "question": "engloutir",
+    "question": "mangeur",
     "choices": [
-      "buyer, purchaser (person who makes purchases)",
-      "(transitive) to gulp",
-      "upwards, climbing",
-      "clemency (moderation of the severity of a punishment)"
+      "axe",
+      "(historical) car (wheeled vehicle usually pulled by a horse)",
+      "loyal",
+      "eater"
     ],
-    "answer": "(transitive) to gulp"
+    "answer": "eater"
   },
   {
-    "question": "désigner",
+    "question": "croupir",
     "choices": [
-      "The seventeenth letter of the French alphabet, written in the Latin script.",
-      "twine",
-      "to designate",
-      "reassuring"
+      "stable (building for animals)",
+      "to unplug",
+      "bunch, cluster",
+      "(of water) to stagnate"
     ],
-    "answer": "to designate"
+    "answer": "(of water) to stagnate"
   },
   {
-    "question": "allaiter",
+    "question": "rudement",
     "choices": [
-      "to prevent, to avert, to guard against",
-      "(colloquial) trick, scheme",
-      "(transitive) to breastfeed",
-      "lilac (plant and colour)"
+      "(chemistry) carbon",
+      "to unleash",
+      "to collect, to gather",
+      "hard, violently"
     ],
-    "answer": "(transitive) to breastfeed"
+    "answer": "hard, violently"
   },
   {
-    "question": "bouleversé",
+    "question": "blague",
     "choices": [
-      "past participle of bouleverser",
-      "Saturday",
-      "sweat, perspiration",
-      "birth"
+      "(slang) mad, crazy, nuts",
+      "(archaic) artilleryman, bombardier",
+      "pouch, especially for tobacco",
+      "to vote"
     ],
-    "answer": "past participle of bouleverser"
+    "answer": "pouch, especially for tobacco"
   },
   {
-    "question": "morgue",
+    "question": "bénéficier",
     "choices": [
-      "to admire",
-      "to entangle",
-      "morgue, mortuary (place where dead bodies are stored)",
-      "barley"
+      "(transitive) to overcharge",
+      "to enjoy, to benefit from, to get, to receive [with de ‘something’]",
+      "a river that flows into an ocean or sea (a river that flows into another river or body of water is called a rivière)",
+      "care"
     ],
-    "answer": "morgue, mortuary (place where dead bodies are stored)"
+    "answer": "to enjoy, to benefit from, to get, to receive [with de ‘something’]"
   },
   {
-    "question": "religieux",
+    "question": "joyeux",
     "choices": [
-      "comparison",
-      "conqueror",
-      "religious",
-      "(transitive) to milk (a cow, etc)"
+      "region; area",
+      "fate, destiny (consequences or effects predetermined by past events or a divine will)",
+      "joyful, happy",
+      "nastily; meanly; cruelly"
     ],
-    "answer": "religious"
+    "answer": "joyful, happy"
   },
   {
-    "question": "miche",
+    "question": "magistrat",
     "choices": [
-      "(of a place, usually literary) distant, remote, far-off",
-      "past participle of déguiser",
-      "round loaf, cob loaf",
-      "conqueror"
+      "magistrate; judge",
+      "bottling",
+      "(sound engineering) tape recorder (an electromechanical device use to record and play back sound)",
+      "retreat"
     ],
-    "answer": "round loaf, cob loaf"
+    "answer": "magistrate; judge"
   },
   {
-    "question": "gigantesque",
+    "question": "travesti",
     "choices": [
-      "gigantic",
-      "solidary, showing solidarity (with)",
-      "pound (place for the detention of stray animals)",
-      "(sports, uncountable) rowing"
+      "transvestite",
+      "desert",
+      "alternative spelling of naze (“worthless, knackered”)",
+      "(literally) the practice of cannibalism, eating another of one's own species"
     ],
-    "answer": "gigantic"
+    "answer": "transvestite"
   },
   {
-    "question": "sudiste",
+    "question": "internat",
     "choices": [
-      "far, distant",
-      "rocket (vehicle)",
-      "southern",
-      "to set up; to establish"
+      "nonstandard spelling of œillet",
+      "(dated) certainly, surely, decidedly, definitely",
+      "boarding school",
+      "an usher, particularly:"
     ],
-    "answer": "southern"
+    "answer": "boarding school"
   },
   {
-    "question": "fondation",
+    "question": "dentifrice",
     "choices": [
-      "idiocy (state of being an idiot)",
-      "(transitive) to recite, to declaim",
-      "hypocrite",
-      "foundation (act of founding)"
+      "present participle of repousser",
+      "toothpaste",
+      "around",
+      "comma (punctuation mark)"
     ],
-    "answer": "foundation (act of founding)"
+    "answer": "toothpaste"
   }
 ]
