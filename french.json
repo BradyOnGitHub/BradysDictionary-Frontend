@@ -1,102 +1,102 @@
 [
   {
-    "question": "mangeur",
+    "question": "verset",
     "choices": [
-      "axe",
-      "(historical) car (wheeled vehicle usually pulled by a horse)",
-      "loyal",
-      "eater"
+      "aid; assistance; help",
+      "used to show uncertainty; like, you know",
+      "bird",
+      "diminutive of vers"
     ],
-    "answer": "eater"
+    "answer": "diminutive of vers"
   },
   {
-    "question": "croupir",
+    "question": "graisse",
     "choices": [
-      "stable (building for animals)",
-      "to unplug",
-      "bunch, cluster",
-      "(of water) to stagnate"
+      "grease",
+      "nonstandard spelling of chœur",
+      "Irish, the Irish language",
+      "to prime, set in motion"
     ],
-    "answer": "(of water) to stagnate"
+    "answer": "grease"
   },
   {
-    "question": "rudement",
+    "question": "là",
     "choices": [
-      "(chemistry) carbon",
-      "to unleash",
-      "to collect, to gather",
-      "hard, violently"
+      "to paddle around, splash about",
+      "referring to physical place",
+      "arterial",
+      "(rail transport) stoker; fireman"
     ],
-    "answer": "hard, violently"
+    "answer": "referring to physical place"
   },
   {
-    "question": "blague",
+    "question": "utérus",
     "choices": [
-      "(slang) mad, crazy, nuts",
-      "(archaic) artilleryman, bombardier",
-      "pouch, especially for tobacco",
-      "to vote"
+      "carp",
+      "past participle of viser",
+      "uterus, womb",
+      "inflection of amarrer:"
     ],
-    "answer": "pouch, especially for tobacco"
+    "answer": "uterus, womb"
   },
   {
-    "question": "bénéficier",
+    "question": "infirmier",
     "choices": [
-      "(transitive) to overcharge",
-      "to enjoy, to benefit from, to get, to receive [with de ‘something’]",
-      "a river that flows into an ocean or sea (a river that flows into another river or body of water is called a rivière)",
-      "care"
+      "to doze, nap, sleep",
+      "nurse (medical professional)",
+      "to make (someone) feel pity for (something)",
+      "to bore; to drill (to make a hole)"
     ],
-    "answer": "to enjoy, to benefit from, to get, to receive [with de ‘something’]"
+    "answer": "nurse (medical professional)"
   },
   {
-    "question": "joyeux",
+    "question": "boche",
     "choices": [
-      "region; area",
-      "fate, destiny (consequences or effects predetermined by past events or a divine will)",
-      "joyful, happy",
-      "nastily; meanly; cruelly"
+      "to stumble",
+      "bush-cricket",
+      "(derogatory, slang, ethnic slur) Boche, Kraut, German, Jerry",
+      "crown (item of headgear)"
     ],
-    "answer": "joyful, happy"
+    "answer": "(derogatory, slang, ethnic slur) Boche, Kraut, German, Jerry"
   },
   {
-    "question": "magistrat",
+    "question": "tortilla",
     "choices": [
-      "magistrate; judge",
-      "bottling",
-      "(sound engineering) tape recorder (an electromechanical device use to record and play back sound)",
-      "retreat"
+      "riot",
+      "summit, peak (of a building)",
+      "victory; win",
+      "tortilla (flat round bread made out of cornmeal or flour)"
     ],
-    "answer": "magistrate; judge"
+    "answer": "tortilla (flat round bread made out of cornmeal or flour)"
   },
   {
-    "question": "travesti",
+    "question": "taux",
     "choices": [
-      "transvestite",
-      "desert",
-      "alternative spelling of naze (“worthless, knackered”)",
-      "(literally) the practice of cannibalism, eating another of one's own species"
+      "(slang, vulgar) to yell, to scream",
+      "(transitive, religion) to fulfil the wish of a prayer",
+      "disguise, costume (outfit worn to hide one's identity)",
+      "rate, level"
     ],
-    "answer": "transvestite"
+    "answer": "rate, level"
   },
   {
-    "question": "internat",
+    "question": "pointu",
     "choices": [
-      "nonstandard spelling of œillet",
-      "(dated) certainly, surely, decidedly, definitely",
-      "boarding school",
-      "an usher, particularly:"
+      "to disarm",
+      "sharp, pointed",
+      "(chiefly France, Vietnam, Cambodia, Laos, Algeria, Morocco, Tunisia, New Caledonia, Réunion, West Africa) yoghurt",
+      "leading, signature, key, flagship"
     ],
-    "answer": "boarding school"
+    "answer": "sharp, pointed"
   },
   {
-    "question": "dentifrice",
+    "question": "pécher",
     "choices": [
-      "present participle of repousser",
-      "toothpaste",
-      "around",
-      "comma (punctuation mark)"
+      "(archaic) noble; gallant, courteous",
+      "(archaic except in set phrases) alive",
+      "to sin",
+      "(historical) Beghard, Beguin (religious laymen living in semimonastic communities in imitation of the Beguines)"
     ],
-    "answer": "toothpaste"
+    "answer": "to sin"
   }
 ]
