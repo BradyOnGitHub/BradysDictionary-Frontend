@@ -1,102 +1,102 @@
 [
   {
-    "question": "verset",
+    "question": "oppression",
     "choices": [
-      "aid; assistance; help",
-      "used to show uncertainty; like, you know",
-      "bird",
-      "diminutive of vers"
+      "(ambitransitive) to hang",
+      "oppression",
+      "gong",
+      "(vulgar, offensive) bastard, jerk, asshole"
     ],
-    "answer": "diminutive of vers"
+    "answer": "oppression"
   },
   {
-    "question": "graisse",
+    "question": "bouchon",
     "choices": [
-      "grease",
-      "nonstandard spelling of chœur",
-      "Irish, the Irish language",
-      "to prime, set in motion"
+      "(anatomy) gut, intestine (of an animal, or, informally of a human)",
+      "sociable",
+      "cork, bung, stopper, plug",
+      "(intransitive) to flee, to run off; to scram, skedaddle, scarper"
     ],
-    "answer": "grease"
+    "answer": "cork, bung, stopper, plug"
   },
   {
-    "question": "là",
+    "question": "inspection",
     "choices": [
-      "to paddle around, splash about",
-      "referring to physical place",
-      "arterial",
-      "(rail transport) stoker; fireman"
+      "inspection (act of examining something, often closely)",
+      "variety",
+      "useless, unnecessary, pointless",
+      "nursery rhyme (short poem or song for children)"
     ],
-    "answer": "referring to physical place"
+    "answer": "inspection (act of examining something, often closely)"
   },
   {
-    "question": "utérus",
+    "question": "cesse",
     "choices": [
-      "carp",
-      "past participle of viser",
-      "uterus, womb",
-      "inflection of amarrer:"
+      "to wash",
+      "(dated) end",
+      "to tow (e.g. a trailer, vessel)",
+      "stupidity, foolishness"
     ],
-    "answer": "uterus, womb"
+    "answer": "(dated) end"
   },
   {
-    "question": "infirmier",
+    "question": "emménager",
     "choices": [
+      "buffalo",
+      "(intransitive) to resign",
+      "wild boar (specifically, a full-grown wild boar)",
+      "to move in (to a new home)"
+    ],
+    "answer": "to move in (to a new home)"
+  },
+  {
+    "question": "comédien",
+    "choices": [
+      "wallet",
+      "surely, certainly",
+      "spinach plant (Spinacia oleracea)",
+      "actor"
+    ],
+    "answer": "actor"
+  },
+  {
+    "question": "chair",
+    "choices": [
+      "flesh",
+      "frequency (all meanings)",
       "to doze, nap, sleep",
-      "nurse (medical professional)",
-      "to make (someone) feel pity for (something)",
-      "to bore; to drill (to make a hole)"
+      "practically, almost"
     ],
-    "answer": "nurse (medical professional)"
+    "answer": "flesh"
   },
   {
-    "question": "boche",
+    "question": "abolir",
     "choices": [
-      "to stumble",
-      "bush-cricket",
-      "(derogatory, slang, ethnic slur) Boche, Kraut, German, Jerry",
-      "crown (item of headgear)"
+      "(transitive) to abolish",
+      "quickly",
+      "slug",
+      "chili, chili con carne"
     ],
-    "answer": "(derogatory, slang, ethnic slur) Boche, Kraut, German, Jerry"
+    "answer": "(transitive) to abolish"
   },
   {
-    "question": "tortilla",
+    "question": "biberon",
     "choices": [
-      "riot",
-      "summit, peak (of a building)",
-      "victory; win",
-      "tortilla (flat round bread made out of cornmeal or flour)"
+      "baby bottle, feeding bottle",
+      "past participle of coudre",
+      "(overly) chatty, talkative, garrulous",
+      "vogue"
     ],
-    "answer": "tortilla (flat round bread made out of cornmeal or flour)"
+    "answer": "baby bottle, feeding bottle"
   },
   {
-    "question": "taux",
+    "question": "mystérieux",
     "choices": [
-      "(slang, vulgar) to yell, to scream",
-      "(transitive, religion) to fulfil the wish of a prayer",
-      "disguise, costume (outfit worn to hide one's identity)",
-      "rate, level"
+      "toilet",
+      "mysterious",
+      "to drool, to slobber",
+      "eunuch"
     ],
-    "answer": "rate, level"
-  },
-  {
-    "question": "pointu",
-    "choices": [
-      "to disarm",
-      "sharp, pointed",
-      "(chiefly France, Vietnam, Cambodia, Laos, Algeria, Morocco, Tunisia, New Caledonia, Réunion, West Africa) yoghurt",
-      "leading, signature, key, flagship"
-    ],
-    "answer": "sharp, pointed"
-  },
-  {
-    "question": "pécher",
-    "choices": [
-      "(archaic) noble; gallant, courteous",
-      "(archaic except in set phrases) alive",
-      "to sin",
-      "(historical) Beghard, Beguin (religious laymen living in semimonastic communities in imitation of the Beguines)"
-    ],
-    "answer": "to sin"
+    "answer": "mysterious"
   }
 ]
