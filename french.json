@@ -1,102 +1,102 @@
 [
   {
-    "question": "oppression",
+    "question": "massif",
     "choices": [
-      "(ambitransitive) to hang",
-      "oppression",
-      "gong",
-      "(vulgar, offensive) bastard, jerk, asshole"
+      "she-ass, jenny (female donkey)",
+      "massif",
+      "mover, house mover (person employed to help people move their possessions from one residence to another)",
+      "present participle of diriger"
     ],
-    "answer": "oppression"
+    "answer": "massif"
   },
   {
-    "question": "bouchon",
+    "question": "jambe",
     "choices": [
-      "(anatomy) gut, intestine (of an animal, or, informally of a human)",
-      "sociable",
-      "cork, bung, stopper, plug",
-      "(intransitive) to flee, to run off; to scram, skedaddle, scarper"
+      "(dated or literary) harlot, slattern, whore",
+      "to freeze",
+      "leg",
+      "jurist"
     ],
-    "answer": "cork, bung, stopper, plug"
+    "answer": "leg"
   },
   {
-    "question": "inspection",
+    "question": "rempli",
     "choices": [
-      "inspection (act of examining something, often closely)",
-      "variety",
-      "useless, unnecessary, pointless",
-      "nursery rhyme (short poem or song for children)"
+      "past participle of remplir",
+      "(ambitransitive) to swallow",
+      "burden",
+      "pump station attendant"
     ],
-    "answer": "inspection (act of examining something, often closely)"
+    "answer": "past participle of remplir"
   },
   {
-    "question": "cesse",
+    "question": "mélancolique",
     "choices": [
-      "to wash",
-      "(dated) end",
-      "to tow (e.g. a trailer, vessel)",
-      "stupidity, foolishness"
+      "throw",
+      "melancholic",
+      "to release; to loosen; to let go",
+      "gyroscope"
     ],
-    "answer": "(dated) end"
+    "answer": "melancholic"
   },
   {
-    "question": "emménager",
+    "question": "chiffonner",
     "choices": [
-      "buffalo",
-      "(intransitive) to resign",
-      "wild boar (specifically, a full-grown wild boar)",
-      "to move in (to a new home)"
+      "a single-edged sword",
+      "(transitive) to crumple, crease",
+      "(archaic) messenger, courier",
+      "to go through, to pass through"
     ],
-    "answer": "to move in (to a new home)"
+    "answer": "(transitive) to crumple, crease"
   },
   {
-    "question": "comédien",
+    "question": "froid",
     "choices": [
-      "wallet",
-      "surely, certainly",
-      "spinach plant (Spinacia oleracea)",
-      "actor"
+      "cold (temperature)",
+      "(anatomy) beak, bill (of a bird)",
+      "graceful, gracious",
+      "call"
     ],
-    "answer": "actor"
+    "answer": "cold (temperature)"
   },
   {
-    "question": "chair",
+    "question": "mériter",
     "choices": [
-      "flesh",
-      "frequency (all meanings)",
-      "to doze, nap, sleep",
-      "practically, almost"
+      "(usually in the plural) sweet; cake; piece of cake",
+      "nonstandard spelling of chœur",
+      "to deserve, merit",
+      "doll (object)"
     ],
-    "answer": "flesh"
+    "answer": "to deserve, merit"
   },
   {
-    "question": "abolir",
+    "question": "voiler",
     "choices": [
-      "(transitive) to abolish",
-      "quickly",
-      "slug",
-      "chili, chili con carne"
+      "(transitive) to veil (cover with a veil)",
+      "to vow",
+      "(music) fugue",
+      "lace (of boot, shoe)"
     ],
-    "answer": "(transitive) to abolish"
+    "answer": "(transitive) to veil (cover with a veil)"
   },
   {
-    "question": "biberon",
+    "question": "replonger",
     "choices": [
-      "baby bottle, feeding bottle",
-      "past participle of coudre",
-      "(overly) chatty, talkative, garrulous",
-      "vogue"
+      "(cooking) dish",
+      "reassuring",
+      "(vulgar) to shit, defecate",
+      "(transitive) to plunge again or back"
     ],
-    "answer": "baby bottle, feeding bottle"
+    "answer": "(transitive) to plunge again or back"
   },
   {
-    "question": "mystérieux",
+    "question": "oracle",
     "choices": [
-      "toilet",
-      "mysterious",
-      "to drool, to slobber",
-      "eunuch"
+      "(relational) of the Netherlands; Dutch",
+      "upkeep",
+      "oracle",
+      "(reflexive) to take refuge"
     ],
-    "answer": "mysterious"
+    "answer": "oracle"
   }
 ]
