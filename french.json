@@ -1,102 +1,102 @@
 [
   {
-    "question": "massif",
+    "question": "rital",
     "choices": [
-      "she-ass, jenny (female donkey)",
-      "massif",
-      "mover, house mover (person employed to help people move their possessions from one residence to another)",
-      "present participle of diriger"
+      "swing (a seat connected to a beam by rope or chain)",
+      "outdated, old-fashioned, passé, corny, behind the times",
+      "(transitive) to burn down",
+      "(ethnic slur) wop, dago (person of Italian descent)"
     ],
-    "answer": "massif"
+    "answer": "(ethnic slur) wop, dago (person of Italian descent)"
   },
   {
-    "question": "jambe",
+    "question": "assembler",
     "choices": [
-      "(dated or literary) harlot, slattern, whore",
-      "to freeze",
-      "leg",
-      "jurist"
+      "baby",
+      "The twentieth letter of the French alphabet, written in the Latin script.",
+      "file (collection of papers)",
+      "to assemble"
     ],
-    "answer": "leg"
+    "answer": "to assemble"
   },
   {
-    "question": "rempli",
+    "question": "classique",
     "choices": [
-      "past participle of remplir",
-      "(ambitransitive) to swallow",
-      "burden",
-      "pump station attendant"
+      "post, pole, stake, stanchion, strut, standard, prop",
+      "hatch or trap door",
+      "classic",
+      "wakefulness, vigil"
     ],
-    "answer": "past participle of remplir"
+    "answer": "classic"
   },
   {
-    "question": "mélancolique",
+    "question": "charger",
     "choices": [
-      "throw",
-      "melancholic",
-      "to release; to loosen; to let go",
-      "gyroscope"
+      "hen (female chicken)",
+      "to load (up) (vehicle, animal etc.)",
+      "sailor (male), seaman",
+      "Physically alert; conscious"
     ],
-    "answer": "melancholic"
+    "answer": "to load (up) (vehicle, animal etc.)"
   },
   {
-    "question": "chiffonner",
+    "question": "moniteur",
     "choices": [
-      "a single-edged sword",
-      "(transitive) to crumple, crease",
-      "(archaic) messenger, courier",
-      "to go through, to pass through"
+      "monitor (someone who watches over something)",
+      "fortress",
+      "garter",
+      "to hit, to strike, to bash"
     ],
-    "answer": "(transitive) to crumple, crease"
+    "answer": "monitor (someone who watches over something)"
   },
   {
-    "question": "froid",
+    "question": "homosexualité",
     "choices": [
-      "cold (temperature)",
-      "(anatomy) beak, bill (of a bird)",
-      "graceful, gracious",
-      "call"
+      "vice (bad habit)",
+      "robber, thief",
+      "homosexuality",
+      "to squeak (emit sound)"
     ],
-    "answer": "cold (temperature)"
+    "answer": "homosexuality"
   },
   {
-    "question": "mériter",
+    "question": "solitaire",
     "choices": [
-      "(usually in the plural) sweet; cake; piece of cake",
-      "nonstandard spelling of chœur",
-      "to deserve, merit",
-      "doll (object)"
+      "yang",
+      "standing, stood up, upright",
+      "past participle of blinder",
+      "solitary, alone (living alone or being by oneself)"
     ],
-    "answer": "to deserve, merit"
+    "answer": "solitary, alone (living alone or being by oneself)"
   },
   {
-    "question": "voiler",
+    "question": "tien",
     "choices": [
-      "(transitive) to veil (cover with a veil)",
-      "to vow",
-      "(music) fugue",
-      "lace (of boot, shoe)"
+      "senile, gaga",
+      "gravel, small stone",
+      "(archaic) your; belonging to you (singular)",
+      "scandalous (wrong, immoral, causing a scandal)"
     ],
-    "answer": "(transitive) to veil (cover with a veil)"
+    "answer": "(archaic) your; belonging to you (singular)"
   },
   {
-    "question": "replonger",
+    "question": "ramollir",
     "choices": [
-      "(cooking) dish",
-      "reassuring",
-      "(vulgar) to shit, defecate",
-      "(transitive) to plunge again or back"
+      "copying",
+      "to soften, to mollify",
+      "sip; gulp",
+      "(mathematics) to sum up"
     ],
-    "answer": "(transitive) to plunge again or back"
+    "answer": "to soften, to mollify"
   },
   {
-    "question": "oracle",
+    "question": "amputer",
     "choices": [
-      "(relational) of the Netherlands; Dutch",
-      "upkeep",
-      "oracle",
-      "(reflexive) to take refuge"
+      "maniacal, mental",
+      "dustman, garbage man, garbage collector (person employed to collect refuse from people's homes and take it to be processed)",
+      "to amputate",
+      "subscription"
     ],
-    "answer": "oracle"
+    "answer": "to amputate"
   }
 ]
