@@ -1,102 +1,102 @@
 [
   {
-    "question": "rital",
+    "question": "termite",
     "choices": [
-      "swing (a seat connected to a beam by rope or chain)",
-      "outdated, old-fashioned, passé, corny, behind the times",
-      "(transitive) to burn down",
-      "(ethnic slur) wop, dago (person of Italian descent)"
+      "sugar refinery",
+      "delicacy; delicateness",
+      "to tease",
+      "termite (white-bodied, wood-consuming insect)"
     ],
-    "answer": "(ethnic slur) wop, dago (person of Italian descent)"
+    "answer": "termite (white-bodied, wood-consuming insect)"
   },
   {
-    "question": "assembler",
+    "question": "prolonger",
     "choices": [
-      "baby",
-      "The twentieth letter of the French alphabet, written in the Latin script.",
-      "file (collection of papers)",
-      "to assemble"
+      "trip, journey",
+      "a type of alcoholic punch from Normandy, composed of cider and calvados",
+      "to prolong",
+      "murmur"
     ],
-    "answer": "to assemble"
+    "answer": "to prolong"
   },
   {
-    "question": "classique",
+    "question": "omelette",
     "choices": [
-      "post, pole, stake, stanchion, strut, standard, prop",
-      "hatch or trap door",
-      "classic",
-      "wakefulness, vigil"
+      "(transitive) to get back (something which is lost)",
+      "boiling (having reached boiling point)",
+      "omelette",
+      "as, since, because, for"
     ],
-    "answer": "classic"
+    "answer": "omelette"
   },
   {
-    "question": "charger",
+    "question": "cortège",
     "choices": [
-      "hen (female chicken)",
-      "to load (up) (vehicle, animal etc.)",
-      "sailor (male), seaman",
-      "Physically alert; conscious"
+      "procession",
+      "superiority",
+      "(transitive) to worsen (to make worse)",
+      "bishop (clergyman)"
     ],
-    "answer": "to load (up) (vehicle, animal etc.)"
+    "answer": "procession"
   },
   {
-    "question": "moniteur",
+    "question": "patriote",
     "choices": [
-      "monitor (someone who watches over something)",
-      "fortress",
-      "garter",
-      "to hit, to strike, to bash"
+      "patriot",
+      "to wander (to move about aimlessly, or on a winding course)",
+      "(countable and uncountable) childhood",
+      "(countable, Judaism) synagogue (a place of worship for Jews or Samaritans)"
     ],
-    "answer": "monitor (someone who watches over something)"
+    "answer": "patriot"
   },
   {
-    "question": "homosexualité",
+    "question": "cet",
     "choices": [
-      "vice (bad habit)",
-      "robber, thief",
-      "homosexuality",
-      "to squeak (emit sound)"
+      "this",
+      "(pronominal) to collapse",
+      "(colloquial, childish) kitty, pussy, a small cat",
+      "maggoty, worm-eaten"
     ],
-    "answer": "homosexuality"
+    "answer": "this"
   },
   {
-    "question": "solitaire",
+    "question": "fax",
     "choices": [
-      "yang",
-      "standing, stood up, upright",
-      "past participle of blinder",
-      "solitary, alone (living alone or being by oneself)"
+      "fax",
+      "honesty",
+      "friendly; allied",
+      "to beat"
     ],
-    "answer": "solitary, alone (living alone or being by oneself)"
+    "answer": "fax"
   },
   {
-    "question": "tien",
+    "question": "sonnerie",
     "choices": [
-      "senile, gaga",
-      "gravel, small stone",
-      "(archaic) your; belonging to you (singular)",
-      "scandalous (wrong, immoral, causing a scandal)"
+      "torch (stick with flame at one end)",
+      "ringing (sound of a bell)",
+      "to bar, bar up (to lock or bolt with a bar)",
+      "past participle of tendre"
     ],
-    "answer": "(archaic) your; belonging to you (singular)"
+    "answer": "ringing (sound of a bell)"
   },
   {
-    "question": "ramollir",
+    "question": "hilarant",
     "choices": [
-      "copying",
-      "to soften, to mollify",
-      "sip; gulp",
-      "(mathematics) to sum up"
+      "each, each one",
+      "hive, beehive",
+      "hilarious (very amusing; very funny)",
+      "trap, snare, booby trap"
     ],
-    "answer": "to soften, to mollify"
+    "answer": "hilarious (very amusing; very funny)"
   },
   {
-    "question": "amputer",
+    "question": "usé",
     "choices": [
-      "maniacal, mental",
-      "dustman, garbage man, garbage collector (person employed to collect refuse from people's homes and take it to be processed)",
-      "to amputate",
-      "subscription"
+      "muzzle",
+      "(music) down bow",
+      "worn-out, deteriorated",
+      "knife"
     ],
-    "answer": "to amputate"
+    "answer": "worn-out, deteriorated"
   }
 ]
