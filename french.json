@@ -1,102 +1,102 @@
 [
   {
-    "question": "termite",
+    "question": "réanimation",
     "choices": [
-      "sugar refinery",
-      "delicacy; delicateness",
-      "to tease",
-      "termite (white-bodied, wood-consuming insect)"
+      "or",
+      "guest (one who is received)",
+      "treat, culinary delight",
+      "revival, resuscitation"
     ],
-    "answer": "termite (white-bodied, wood-consuming insect)"
+    "answer": "revival, resuscitation"
   },
   {
-    "question": "prolonger",
+    "question": "smoking",
     "choices": [
-      "trip, journey",
-      "a type of alcoholic punch from Normandy, composed of cider and calvados",
-      "to prolong",
-      "murmur"
+      "tuxedo, dinner jacket",
+      "crack, cracking, click (sound)",
+      "board",
+      "fizzy, gassy"
     ],
-    "answer": "to prolong"
+    "answer": "tuxedo, dinner jacket"
   },
   {
-    "question": "omelette",
+    "question": "addition",
     "choices": [
-      "(transitive) to get back (something which is lost)",
-      "boiling (having reached boiling point)",
-      "omelette",
-      "as, since, because, for"
+      "yin",
+      "ratio",
+      "(arithmetic) addition (operation of adding a number to another)",
+      "match (small flammable object)"
     ],
-    "answer": "omelette"
+    "answer": "(arithmetic) addition (operation of adding a number to another)"
   },
   {
-    "question": "cortège",
+    "question": "inoubliable",
     "choices": [
-      "procession",
-      "superiority",
-      "(transitive) to worsen (to make worse)",
-      "bishop (clergyman)"
+      "unforgettable",
+      "swimmer (one who swims)",
+      "to launder, wash",
+      "dearth, lack, shortage; penury"
     ],
-    "answer": "procession"
+    "answer": "unforgettable"
   },
   {
-    "question": "patriote",
+    "question": "remplir",
     "choices": [
-      "patriot",
-      "to wander (to move about aimlessly, or on a winding course)",
-      "(countable and uncountable) childhood",
-      "(countable, Judaism) synagogue (a place of worship for Jews or Samaritans)"
+      "(military) fougasse (land-mine)",
+      "dishonest, disingenuous",
+      "dispute, difference, debate, disagreement",
+      "to fill, to fill up (make full)"
     ],
-    "answer": "patriot"
+    "answer": "to fill, to fill up (make full)"
   },
   {
-    "question": "cet",
+    "question": "conférence",
     "choices": [
-      "this",
-      "(pronominal) to collapse",
-      "(colloquial, childish) kitty, pussy, a small cat",
-      "maggoty, worm-eaten"
+      "to mistreat",
+      "loss",
+      "a (tallow) candle",
+      "conference"
     ],
-    "answer": "this"
+    "answer": "conference"
   },
   {
-    "question": "fax",
+    "question": "durant",
     "choices": [
-      "fax",
-      "honesty",
-      "friendly; allied",
-      "to beat"
+      "during, while",
+      "dungeon, prison",
+      "try, trial",
+      "intruder (unknown unwelcome person)"
     ],
-    "answer": "fax"
+    "answer": "during, while"
   },
   {
-    "question": "sonnerie",
+    "question": "camion",
     "choices": [
-      "torch (stick with flame at one end)",
-      "ringing (sound of a bell)",
-      "to bar, bar up (to lock or bolt with a bar)",
-      "past participle of tendre"
+      "sense of modesty or reserve; shame",
+      "to found",
+      "fasces",
+      "lorry (UK); truck (US)"
     ],
-    "answer": "ringing (sound of a bell)"
+    "answer": "lorry (UK); truck (US)"
   },
   {
-    "question": "hilarant",
+    "question": "brutalité",
     "choices": [
-      "each, each one",
-      "hive, beehive",
-      "hilarious (very amusing; very funny)",
-      "trap, snare, booby trap"
+      "osseous",
+      "mole (burrowing mammal)",
+      "brutality",
+      "pious"
     ],
-    "answer": "hilarious (very amusing; very funny)"
+    "answer": "brutality"
   },
   {
-    "question": "usé",
+    "question": "hiver",
     "choices": [
-      "muzzle",
-      "(music) down bow",
-      "worn-out, deteriorated",
-      "knife"
+      "winter",
+      "couch; sofa",
+      "ewe",
+      "advanced (well developed)"
     ],
-    "answer": "worn-out, deteriorated"
+    "answer": "winter"
   }
 ]
