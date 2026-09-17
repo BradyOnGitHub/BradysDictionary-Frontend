@@ -1,102 +1,102 @@
 [
   {
-    "question": "réanimation",
+    "question": "fourrure",
     "choices": [
-      "or",
-      "guest (one who is received)",
-      "treat, culinary delight",
-      "revival, resuscitation"
+      "dedication, commitment (to duty); self-sacrifice",
+      "foliage",
+      "an effigy",
+      "(zoology, fashion, heraldry) fur"
     ],
-    "answer": "revival, resuscitation"
+    "answer": "(zoology, fashion, heraldry) fur"
   },
   {
-    "question": "smoking",
+    "question": "lequel",
     "choices": [
-      "tuxedo, dinner jacket",
-      "crack, cracking, click (sound)",
-      "board",
-      "fizzy, gassy"
+      "eater",
+      "shoe size",
+      "(in the plural, literary) waves",
+      "(relative, following a preposition) which, that, whom"
     ],
-    "answer": "tuxedo, dinner jacket"
+    "answer": "(relative, following a preposition) which, that, whom"
   },
   {
-    "question": "addition",
+    "question": "moral",
     "choices": [
-      "yin",
-      "ratio",
-      "(arithmetic) addition (operation of adding a number to another)",
-      "match (small flammable object)"
+      "morale, optimism",
+      "bacon",
+      "billy goat",
+      "to hate, despise, scorn, disdain"
     ],
-    "answer": "(arithmetic) addition (operation of adding a number to another)"
+    "answer": "morale, optimism"
   },
   {
-    "question": "inoubliable",
+    "question": "vos",
     "choices": [
-      "unforgettable",
-      "swimmer (one who swims)",
-      "to launder, wash",
-      "dearth, lack, shortage; penury"
+      "(intransitive) to be born",
+      "plural of votre; your (plural or formal you)",
+      "surprised",
+      "to shoot, to shoot down, to gun down (especially with a rifle, but also with other firearms)"
     ],
-    "answer": "unforgettable"
+    "answer": "plural of votre; your (plural or formal you)"
   },
   {
-    "question": "remplir",
+    "question": "bluff",
     "choices": [
-      "(military) fougasse (land-mine)",
-      "dishonest, disingenuous",
-      "dispute, difference, debate, disagreement",
-      "to fill, to fill up (make full)"
+      "(colloquial) street urchin",
+      "league (alliance, group)",
+      "summit, peak (of a building)",
+      "(chiefly card games) bluff"
     ],
-    "answer": "to fill, to fill up (make full)"
+    "answer": "(chiefly card games) bluff"
   },
   {
-    "question": "conférence",
+    "question": "gênant",
     "choices": [
-      "to mistreat",
-      "loss",
-      "a (tallow) candle",
-      "conference"
+      "(dated) (yes,) obviously! (yes,) for God's sake! (yes,) of course!",
+      "shop sign",
+      "foal (young horse)",
+      "disruptive"
     ],
-    "answer": "conference"
+    "answer": "disruptive"
   },
   {
-    "question": "durant",
+    "question": "transporter",
     "choices": [
-      "during, while",
-      "dungeon, prison",
-      "try, trial",
-      "intruder (unknown unwelcome person)"
+      "to transport",
+      "to hit, to strike, to bash",
+      "(archaic) to drowse, to doze",
+      "(transitive) to soak, to drench, to wet"
     ],
-    "answer": "during, while"
+    "answer": "to transport"
   },
   {
-    "question": "camion",
+    "question": "pot",
     "choices": [
-      "sense of modesty or reserve; shame",
-      "to found",
-      "fasces",
-      "lorry (UK); truck (US)"
+      "(informal) (espionage) snitch, grass, tell-tale (police informant)",
+      "pot, jar, vase, tin, can, carton (a container of any of various materials)",
+      "post, pole, stake, stanchion, strut, standard, prop",
+      "gladius, short sword"
     ],
-    "answer": "lorry (UK); truck (US)"
+    "answer": "pot, jar, vase, tin, can, carton (a container of any of various materials)"
   },
   {
-    "question": "brutalité",
+    "question": "cour",
     "choices": [
-      "osseous",
-      "mole (burrowing mammal)",
-      "brutality",
-      "pious"
+      "to rewrap; to wrap up again",
+      "courtyard,",
+      "(geometry) sphere",
+      "fear, fright"
     ],
-    "answer": "brutality"
+    "answer": "courtyard,"
   },
   {
-    "question": "hiver",
+    "question": "éviter",
     "choices": [
-      "winter",
-      "couch; sofa",
-      "ewe",
-      "advanced (well developed)"
+      "full, without room for more",
+      "donkey, ass",
+      "to avoid",
+      "desperately"
     ],
-    "answer": "winter"
+    "answer": "to avoid"
   }
 ]
