@@ -1,102 +1,102 @@
 [
   {
-    "question": "fourrure",
+    "question": "psychose",
     "choices": [
-      "dedication, commitment (to duty); self-sacrifice",
-      "foliage",
-      "an effigy",
-      "(zoology, fashion, heraldry) fur"
+      "well, shaft",
+      "test",
+      "rubbish, trash",
+      "psychosis"
     ],
-    "answer": "(zoology, fashion, heraldry) fur"
+    "answer": "psychosis"
   },
   {
-    "question": "lequel",
+    "question": "assortir",
     "choices": [
-      "eater",
-      "shoe size",
-      "(in the plural, literary) waves",
-      "(relative, following a preposition) which, that, whom"
+      "(transitive) to match, match up",
+      "barbed (wire)",
+      "antiquer",
+      "(transitive) to excuse (to forgive, to pardon)"
     ],
-    "answer": "(relative, following a preposition) which, that, whom"
+    "answer": "(transitive) to match, match up"
   },
   {
-    "question": "moral",
+    "question": "commencement",
     "choices": [
-      "morale, optimism",
-      "bacon",
-      "billy goat",
-      "to hate, despise, scorn, disdain"
+      "bowl",
+      "December",
+      "governmental",
+      "beginning, start"
     ],
-    "answer": "morale, optimism"
+    "answer": "beginning, start"
   },
   {
-    "question": "vos",
+    "question": "porter",
     "choices": [
-      "(intransitive) to be born",
-      "plural of votre; your (plural or formal you)",
-      "surprised",
-      "to shoot, to shoot down, to gun down (especially with a rifle, but also with other firearms)"
+      "to carry",
+      "proximity",
+      "copper",
+      "soap"
     ],
-    "answer": "plural of votre; your (plural or formal you)"
+    "answer": "to carry"
   },
   {
-    "question": "bluff",
+    "question": "hombre",
     "choices": [
-      "(colloquial) street urchin",
-      "league (alliance, group)",
-      "summit, peak (of a building)",
-      "(chiefly card games) bluff"
+      "hare",
+      "a kind of card game from Spain",
+      "present participle of filer",
+      "past participle of savoir: known"
     ],
-    "answer": "(chiefly card games) bluff"
+    "answer": "a kind of card game from Spain"
   },
   {
-    "question": "gênant",
+    "question": "tasse",
     "choices": [
-      "(dated) (yes,) obviously! (yes,) for God's sake! (yes,) of course!",
-      "shop sign",
-      "foal (young horse)",
-      "disruptive"
+      "(transitive) to banish",
+      "to bite",
+      "cup",
+      "a bastard"
     ],
-    "answer": "disruptive"
+    "answer": "cup"
   },
   {
-    "question": "transporter",
+    "question": "chandelier",
     "choices": [
-      "to transport",
-      "to hit, to strike, to bash",
-      "(archaic) to drowse, to doze",
-      "(transitive) to soak, to drench, to wet"
+      "to evolve; to change, to develop",
+      "poverty",
+      "candlestick",
+      "searcher (one who searches)"
     ],
-    "answer": "to transport"
+    "answer": "candlestick"
   },
   {
-    "question": "pot",
+    "question": "autorisation",
     "choices": [
-      "(informal) (espionage) snitch, grass, tell-tale (police informant)",
-      "pot, jar, vase, tin, can, carton (a container of any of various materials)",
-      "post, pole, stake, stanchion, strut, standard, prop",
-      "gladius, short sword"
+      "authorization (act of authorizing)",
+      "decline",
+      "bray (sound made by a donkey/ass)",
+      "to gallop"
     ],
-    "answer": "pot, jar, vase, tin, can, carton (a container of any of various materials)"
+    "answer": "authorization (act of authorizing)"
   },
   {
-    "question": "cour",
+    "question": "chimpanzé",
     "choices": [
-      "to rewrap; to wrap up again",
-      "courtyard,",
-      "(geometry) sphere",
-      "fear, fright"
+      "dwelling (a place or house in which a person lives)",
+      "meadow, grassland, pasture, prairie",
+      "dart",
+      "chimpanzee (ape)"
     ],
-    "answer": "courtyard,"
+    "answer": "chimpanzee (ape)"
   },
   {
-    "question": "éviter",
+    "question": "reprise",
     "choices": [
-      "full, without room for more",
-      "donkey, ass",
-      "to avoid",
-      "desperately"
+      "(intransitive, followed by à) to aspire (to wait, to long)",
+      "time, instance",
+      "(transitive) to reduce",
+      "rightness, correctness"
     ],
-    "answer": "to avoid"
+    "answer": "time, instance"
   }
 ]
