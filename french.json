@@ -1,102 +1,102 @@
 [
   {
-    "question": "psychose",
+    "question": "candidat",
     "choices": [
-      "well, shaft",
-      "test",
-      "rubbish, trash",
-      "psychosis"
+      "sharp, pointy",
+      "(metallurgy) bronzing",
+      "candidate",
+      "to instruct, to teach"
     ],
-    "answer": "psychosis"
+    "answer": "candidate"
   },
   {
-    "question": "assortir",
+    "question": "jockey",
     "choices": [
-      "(transitive) to match, match up",
-      "barbed (wire)",
-      "antiquer",
-      "(transitive) to excuse (to forgive, to pardon)"
+      "jockey",
+      "feminine singular of central",
+      "superhuman",
+      "embarrassment"
     ],
-    "answer": "(transitive) to match, match up"
+    "answer": "jockey"
   },
   {
-    "question": "commencement",
+    "question": "serveur",
     "choices": [
-      "bowl",
-      "December",
-      "governmental",
-      "beginning, start"
+      "(zoology) glandered",
+      "waiter (in restaurant)",
+      "(intransitive) to simmer",
+      "(little) bell"
     ],
-    "answer": "beginning, start"
+    "answer": "waiter (in restaurant)"
   },
   {
-    "question": "porter",
+    "question": "promenade",
     "choices": [
-      "to carry",
-      "proximity",
-      "copper",
-      "soap"
+      "(music) bugle (music: a simple brass instrument consisting of a horn with no valves)",
+      "(informal) trip",
+      "walk; stroll (walk for enjoyment)",
+      "yacht"
     ],
-    "answer": "to carry"
+    "answer": "walk; stroll (walk for enjoyment)"
   },
   {
-    "question": "hombre",
+    "question": "affecter",
     "choices": [
-      "hare",
-      "a kind of card game from Spain",
-      "present participle of filer",
-      "past participle of savoir: known"
+      "(transitive, vulgar) to shaft, to fuck over, dupe, swindle, fool",
+      "uncultivated, fallow",
+      "(Greek mythology) nymph",
+      "(transitive) to feign, affect (an emotion, etc.)"
     ],
-    "answer": "a kind of card game from Spain"
+    "answer": "(transitive) to feign, affect (an emotion, etc.)"
   },
   {
-    "question": "tasse",
+    "question": "nouveau",
     "choices": [
-      "(transitive) to banish",
-      "to bite",
-      "cup",
-      "a bastard"
+      "truth",
+      "drinker (someone who drinks, especially alcohol)",
+      "new, novel",
+      "to threaten"
     ],
-    "answer": "cup"
+    "answer": "new, novel"
   },
   {
-    "question": "chandelier",
+    "question": "initier",
     "choices": [
-      "to evolve; to change, to develop",
-      "poverty",
-      "candlestick",
-      "searcher (one who searches)"
+      "friendship, amity",
+      "to initiate (to introduce into a religion, sect, art, etc.)",
+      "satanic",
+      "disappointing"
     ],
-    "answer": "candlestick"
+    "answer": "to initiate (to introduce into a religion, sect, art, etc.)"
   },
   {
-    "question": "autorisation",
+    "question": "chêne",
     "choices": [
-      "authorization (act of authorizing)",
-      "decline",
-      "bray (sound made by a donkey/ass)",
-      "to gallop"
+      "trendy, à la mode",
+      "stage (where performances are held)",
+      "oak (tree), oak tree",
+      "(transitive) to turn over, turn upside down"
     ],
-    "answer": "authorization (act of authorizing)"
+    "answer": "oak (tree), oak tree"
   },
   {
-    "question": "chimpanzé",
+    "question": "bikini",
     "choices": [
-      "dwelling (a place or house in which a person lives)",
-      "meadow, grassland, pasture, prairie",
-      "dart",
-      "chimpanzee (ape)"
+      "(botany) flower; bloom; blossom; collectively, the reproductive organs and the envelope which surrounds them in angiosperms (also called \"flowering plants\")",
+      "bikini",
+      "to rethink, to reconsider",
+      "hearing, audition"
     ],
-    "answer": "chimpanzee (ape)"
+    "answer": "bikini"
   },
   {
-    "question": "reprise",
+    "question": "tacher",
     "choices": [
-      "(intransitive, followed by à) to aspire (to wait, to long)",
-      "time, instance",
-      "(transitive) to reduce",
-      "rightness, correctness"
+      "any device, contraption or machinery, particularly a complex, dangerous or powerful one",
+      "to soil or stain",
+      "park",
+      "(transitive) to risk, to put at risk"
     ],
-    "answer": "time, instance"
+    "answer": "to soil or stain"
   }
 ]
