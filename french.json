@@ -1,102 +1,102 @@
 [
   {
-    "question": "candidat",
+    "question": "bondir",
     "choices": [
-      "sharp, pointy",
-      "(metallurgy) bronzing",
-      "candidate",
-      "to instruct, to teach"
+      "to bounce, spring, jump",
+      "(phonology) mora",
+      "(intransitive) to reappear",
+      "to engrave"
     ],
-    "answer": "candidate"
+    "answer": "to bounce, spring, jump"
   },
   {
-    "question": "jockey",
+    "question": "fervent",
     "choices": [
-      "jockey",
-      "feminine singular of central",
-      "superhuman",
-      "embarrassment"
+      "tale; story",
+      "fervent",
+      "past participle of bouleverser",
+      "breeze"
     ],
-    "answer": "jockey"
+    "answer": "fervent"
   },
   {
-    "question": "serveur",
+    "question": "bouillant",
     "choices": [
-      "(zoology) glandered",
-      "waiter (in restaurant)",
-      "(intransitive) to simmer",
-      "(little) bell"
+      "boiling (having reached boiling point)",
+      "fall (act of falling)",
+      "wool",
+      "(intransitive) to cook"
     ],
-    "answer": "waiter (in restaurant)"
+    "answer": "boiling (having reached boiling point)"
   },
   {
-    "question": "promenade",
+    "question": "insupportable",
     "choices": [
-      "(music) bugle (music: a simple brass instrument consisting of a horn with no valves)",
-      "(informal) trip",
-      "walk; stroll (walk for enjoyment)",
-      "yacht"
+      "unbearable, intolerable",
+      "nonsense, gobbledygook, galimatias",
+      "young rat",
+      "content (that which is physically contained in a container)"
     ],
-    "answer": "walk; stroll (walk for enjoyment)"
+    "answer": "unbearable, intolerable"
   },
   {
-    "question": "affecter",
+    "question": "sonde",
     "choices": [
-      "(transitive, vulgar) to shaft, to fuck over, dupe, swindle, fool",
-      "uncultivated, fallow",
-      "(Greek mythology) nymph",
-      "(transitive) to feign, affect (an emotion, etc.)"
+      "(transitive) to harness, yoke, hitch (e.g. a horse to a wagon)",
+      "(medicine) probe; sound",
+      "to clean",
+      "savior; knight in shining armor"
     ],
-    "answer": "(transitive) to feign, affect (an emotion, etc.)"
+    "answer": "(medicine) probe; sound"
   },
   {
-    "question": "nouveau",
+    "question": "magot",
     "choices": [
-      "truth",
-      "drinker (someone who drinks, especially alcohol)",
-      "new, novel",
-      "to threaten"
+      "to argue, to debate",
+      "the Barbary macaque (Macaca sylvanus) native to the Atlas Mountains of Algeria and Morocco along with a small population of uncertain origin in Gibraltar",
+      "to invade",
+      "shuttle (in weaving)"
     ],
-    "answer": "new, novel"
+    "answer": "the Barbary macaque (Macaca sylvanus) native to the Atlas Mountains of Algeria and Morocco along with a small population of uncertain origin in Gibraltar"
   },
   {
-    "question": "initier",
+    "question": "bidon",
     "choices": [
-      "friendship, amity",
-      "to initiate (to introduce into a religion, sect, art, etc.)",
-      "satanic",
-      "disappointing"
+      "(transitive) to govern",
+      "(zoology) whiting",
+      "to deepen",
+      "can, tin, canister"
     ],
-    "answer": "to initiate (to introduce into a religion, sect, art, etc.)"
+    "answer": "can, tin, canister"
   },
   {
-    "question": "chêne",
+    "question": "bosse",
     "choices": [
-      "trendy, à la mode",
-      "stage (where performances are held)",
-      "oak (tree), oak tree",
-      "(transitive) to turn over, turn upside down"
+      "carpenter",
+      "board",
+      "fellow citizen",
+      "bump (small elevated level)"
     ],
-    "answer": "oak (tree), oak tree"
+    "answer": "bump (small elevated level)"
   },
   {
-    "question": "bikini",
+    "question": "aluminium",
     "choices": [
-      "(botany) flower; bloom; blossom; collectively, the reproductive organs and the envelope which surrounds them in angiosperms (also called \"flowering plants\")",
-      "bikini",
-      "to rethink, to reconsider",
-      "hearing, audition"
+      "aluminium (element)",
+      "comma (punctuation mark)",
+      "curry",
+      "to return to (somewhere one's been before)"
     ],
-    "answer": "bikini"
+    "answer": "aluminium (element)"
   },
   {
-    "question": "tacher",
+    "question": "primitif",
     "choices": [
-      "any device, contraption or machinery, particularly a complex, dangerous or powerful one",
-      "to soil or stain",
-      "park",
-      "(transitive) to risk, to put at risk"
+      "primitive",
+      "bingo",
+      "salmon (fish)",
+      "lookout"
     ],
-    "answer": "to soil or stain"
+    "answer": "primitive"
   }
 ]
