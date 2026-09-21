@@ -1,102 +1,102 @@
 [
   {
-    "question": "bondir",
+    "question": "hygiène",
     "choices": [
-      "to bounce, spring, jump",
-      "(phonology) mora",
-      "(intransitive) to reappear",
-      "to engrave"
+      "(music) fugue",
+      "kitty; puss or pussy (cat)",
+      "raspberry (fruit)",
+      "hygiene"
     ],
-    "answer": "to bounce, spring, jump"
+    "answer": "hygiene"
   },
   {
-    "question": "fervent",
+    "question": "approuver",
     "choices": [
-      "tale; story",
-      "fervent",
-      "past participle of bouleverser",
-      "breeze"
+      "(slang) hooch",
+      "to approve of",
+      "amazing, surprising, stupefying",
+      "case, situation"
     ],
-    "answer": "fervent"
+    "answer": "to approve of"
   },
   {
-    "question": "bouillant",
+    "question": "manie",
     "choices": [
-      "boiling (having reached boiling point)",
-      "fall (act of falling)",
-      "wool",
-      "(intransitive) to cook"
+      "(psychology) mania",
+      "application; candidacy",
+      "czar (Russian nobility)",
+      "to heal, to scar (of a wound)"
     ],
-    "answer": "boiling (having reached boiling point)"
+    "answer": "(psychology) mania"
   },
   {
-    "question": "insupportable",
+    "question": "anxieux",
     "choices": [
-      "unbearable, intolerable",
-      "nonsense, gobbledygook, galimatias",
-      "young rat",
-      "content (that which is physically contained in a container)"
+      "anxious",
+      "bacon",
+      "pit (hole in the ground)",
+      "baboon"
     ],
-    "answer": "unbearable, intolerable"
+    "answer": "anxious"
   },
   {
-    "question": "sonde",
+    "question": "formalité",
     "choices": [
-      "(transitive) to harness, yoke, hitch (e.g. a horse to a wagon)",
-      "(medicine) probe; sound",
-      "to clean",
-      "savior; knight in shining armor"
+      "(intransitive) to resign",
+      "decisive",
+      "formality (all meanings)",
+      "(with ne) hardly, barely"
     ],
-    "answer": "(medicine) probe; sound"
+    "answer": "formality (all meanings)"
   },
   {
-    "question": "magot",
+    "question": "cerf",
     "choices": [
-      "to argue, to debate",
-      "the Barbary macaque (Macaca sylvanus) native to the Atlas Mountains of Algeria and Morocco along with a small population of uncertain origin in Gibraltar",
-      "to invade",
-      "shuttle (in weaving)"
+      "possibility",
+      "a stag, a hart",
+      "opening",
+      "to feed (provide with nourishment), nourish"
     ],
-    "answer": "the Barbary macaque (Macaca sylvanus) native to the Atlas Mountains of Algeria and Morocco along with a small population of uncertain origin in Gibraltar"
+    "answer": "a stag, a hart"
   },
   {
-    "question": "bidon",
+    "question": "embaumer",
     "choices": [
-      "(transitive) to govern",
-      "(zoology) whiting",
-      "to deepen",
-      "can, tin, canister"
+      "to build",
+      "to stroke gently, to touch lightly",
+      "to embalm",
+      "convertible"
     ],
-    "answer": "can, tin, canister"
+    "answer": "to embalm"
   },
   {
-    "question": "bosse",
+    "question": "coucher",
     "choices": [
-      "carpenter",
-      "board",
-      "fellow citizen",
-      "bump (small elevated level)"
+      "(transitive) to lay, to lay down",
+      "taro (plant)",
+      "(pathology) leprous",
+      "porthole"
     ],
-    "answer": "bump (small elevated level)"
+    "answer": "(transitive) to lay, to lay down"
   },
   {
-    "question": "aluminium",
+    "question": "déprimer",
     "choices": [
-      "aluminium (element)",
-      "comma (punctuation mark)",
-      "curry",
-      "to return to (somewhere one's been before)"
+      "bee, honey bee",
+      "(transitive) to depress, to deject",
+      "to pin (fasten/attach with a pin)",
+      "healer"
     ],
-    "answer": "aluminium (element)"
+    "answer": "(transitive) to depress, to deject"
   },
   {
-    "question": "primitif",
+    "question": "acteur",
     "choices": [
-      "primitive",
-      "bingo",
-      "salmon (fish)",
-      "lookout"
+      "coat",
+      "to trap (to capture in a trap)",
+      "spittle, drool, dribble, slobber",
+      "actor"
     ],
-    "answer": "primitive"
+    "answer": "actor"
   }
 ]
