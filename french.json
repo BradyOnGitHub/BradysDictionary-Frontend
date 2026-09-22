@@ -1,102 +1,102 @@
 [
   {
-    "question": "hygiène",
+    "question": "intervention",
     "choices": [
-      "(music) fugue",
-      "kitty; puss or pussy (cat)",
-      "raspberry (fruit)",
-      "hygiene"
+      "sausage (hot dog style)",
+      "past participle of supposer",
+      "intervention",
+      "inflection of piger:"
     ],
-    "answer": "hygiene"
+    "answer": "intervention"
   },
   {
-    "question": "approuver",
+    "question": "subversif",
     "choices": [
-      "(slang) hooch",
-      "to approve of",
-      "amazing, surprising, stupefying",
-      "case, situation"
+      "sign, notice",
+      "subversive",
+      "suburb",
+      "pyramid"
     ],
-    "answer": "to approve of"
+    "answer": "subversive"
   },
   {
-    "question": "manie",
+    "question": "justesse",
     "choices": [
-      "(psychology) mania",
-      "application; candidacy",
-      "czar (Russian nobility)",
-      "to heal, to scar (of a wound)"
+      "immediately",
+      "rightness, correctness",
+      "lace",
+      "to evoke (to cause the manifestation of something (emotion, picture, etc.) in someone's mind or imagination)"
     ],
-    "answer": "(psychology) mania"
+    "answer": "rightness, correctness"
   },
   {
-    "question": "anxieux",
+    "question": "visser",
     "choices": [
-      "anxious",
-      "bacon",
-      "pit (hole in the ground)",
-      "baboon"
+      "to slander, libel, besmirch, calumniate",
+      "a large amount; a plethora or profusion",
+      "to screw in; to screw on",
+      "flow"
     ],
-    "answer": "anxious"
+    "answer": "to screw in; to screw on"
   },
   {
-    "question": "formalité",
+    "question": "ne",
     "choices": [
-      "(intransitive) to resign",
-      "decisive",
-      "formality (all meanings)",
-      "(with ne) hardly, barely"
+      "kiss (friendly kiss)",
+      "(literary) not (used alone to negate a verb, now chiefly with only a few particular verbs; see usage notes)",
+      "of no impact; unimportant; inconsequent; insignificant",
+      "(obsolete) valuable, which has legal tender"
     ],
-    "answer": "formality (all meanings)"
+    "answer": "(literary) not (used alone to negate a verb, now chiefly with only a few particular verbs; see usage notes)"
   },
   {
-    "question": "cerf",
+    "question": "biblique",
     "choices": [
-      "possibility",
-      "a stag, a hart",
-      "opening",
-      "to feed (provide with nourishment), nourish"
+      "biblical (related to the Bible)",
+      "veracity",
+      "(archaic) immediately",
+      "present participle of éclater"
     ],
-    "answer": "a stag, a hart"
+    "answer": "biblical (related to the Bible)"
   },
   {
-    "question": "embaumer",
+    "question": "poliment",
     "choices": [
-      "to build",
-      "to stroke gently, to touch lightly",
-      "to embalm",
-      "convertible"
+      "already, before",
+      "politely",
+      "(geometry) parallel",
+      "(transitive) to venture"
     ],
-    "answer": "to embalm"
+    "answer": "politely"
   },
   {
-    "question": "coucher",
+    "question": "barque",
     "choices": [
-      "(transitive) to lay, to lay down",
-      "taro (plant)",
-      "(pathology) leprous",
-      "porthole"
+      "small boat",
+      "secure, solid, firm, substantial",
+      "rifle, gun",
+      "contagious (that can be transmitted to others; easily transmitted to others)"
     ],
-    "answer": "(transitive) to lay, to lay down"
+    "answer": "small boat"
   },
   {
-    "question": "déprimer",
+    "question": "fougasse",
     "choices": [
-      "bee, honey bee",
-      "(transitive) to depress, to deject",
-      "to pin (fasten/attach with a pin)",
-      "healer"
+      "to avoid",
+      "to wash",
+      "crossing (action of traversing something)",
+      "(military) fougasse (land-mine)"
     ],
-    "answer": "(transitive) to depress, to deject"
+    "answer": "(military) fougasse (land-mine)"
   },
   {
-    "question": "acteur",
+    "question": "chocolat",
     "choices": [
-      "coat",
-      "to trap (to capture in a trap)",
-      "spittle, drool, dribble, slobber",
-      "actor"
+      "fire (something on fire which is out of control)",
+      "orifice",
+      "chocolate; chocolate-coloured",
+      "(informal) racket, hubbub (loud and unpleasant noise)"
     ],
-    "answer": "actor"
+    "answer": "chocolate; chocolate-coloured"
   }
 ]
