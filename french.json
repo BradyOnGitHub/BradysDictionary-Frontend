@@ -1,102 +1,102 @@
 [
   {
-    "question": "intervention",
+    "question": "aviron",
     "choices": [
-      "sausage (hot dog style)",
-      "past participle of supposer",
-      "intervention",
-      "inflection of piger:"
+      "highly, very",
+      "(sports, uncountable) rowing",
+      "bowl",
+      "watchman"
     ],
-    "answer": "intervention"
+    "answer": "(sports, uncountable) rowing"
   },
   {
-    "question": "subversif",
+    "question": "règlement",
     "choices": [
-      "sign, notice",
-      "subversive",
-      "suburb",
-      "pyramid"
+      "The name of the Latin script letter T/t.",
+      "rules, regulations",
+      "sigh",
+      "(Hinduism) guru"
     ],
-    "answer": "subversive"
+    "answer": "rules, regulations"
   },
   {
-    "question": "justesse",
+    "question": "savoir",
     "choices": [
-      "immediately",
-      "rightness, correctness",
-      "lace",
-      "to evoke (to cause the manifestation of something (emotion, picture, etc.) in someone's mind or imagination)"
+      "(transitive) to provide, fit, equip (a person, machine, device etc. de with something)",
+      "fabric",
+      "(transitive) to denigrate, run down",
+      "to know (something)"
     ],
-    "answer": "rightness, correctness"
+    "answer": "to know (something)"
   },
   {
-    "question": "visser",
+    "question": "autrement",
     "choices": [
-      "to slander, libel, besmirch, calumniate",
-      "a large amount; a plethora or profusion",
-      "to screw in; to screw on",
-      "flow"
+      "to throw back",
+      "Hindu",
+      "differently, in another way or manner",
+      "small ball"
     ],
-    "answer": "to screw in; to screw on"
+    "answer": "differently, in another way or manner"
   },
   {
-    "question": "ne",
+    "question": "intention",
     "choices": [
-      "kiss (friendly kiss)",
-      "(literary) not (used alone to negate a verb, now chiefly with only a few particular verbs; see usage notes)",
-      "of no impact; unimportant; inconsequent; insignificant",
-      "(obsolete) valuable, which has legal tender"
+      "(transitive) to itch, to cause to feel itchy",
+      "intention",
+      "one-eyed",
+      "glade, clearing (an area of land within a wood or forest devoid of trees)"
     ],
-    "answer": "(literary) not (used alone to negate a verb, now chiefly with only a few particular verbs; see usage notes)"
+    "answer": "intention"
   },
   {
-    "question": "biblique",
+    "question": "déranger",
     "choices": [
-      "biblical (related to the Bible)",
-      "veracity",
-      "(archaic) immediately",
-      "present participle of éclater"
+      "to bother; to disrupt",
+      "mouth",
+      "hideaway, hiding place",
+      "past participle of teindre"
     ],
-    "answer": "biblical (related to the Bible)"
+    "answer": "to bother; to disrupt"
   },
   {
-    "question": "poliment",
+    "question": "foot",
     "choices": [
-      "already, before",
-      "politely",
-      "(geometry) parallel",
-      "(transitive) to venture"
+      "thanks (grateful feelings)",
+      "path, way, road",
+      "lining",
+      "(colloquial) association football; football, soccer"
     ],
-    "answer": "politely"
+    "answer": "(colloquial) association football; football, soccer"
   },
   {
-    "question": "barque",
+    "question": "python",
     "choices": [
-      "small boat",
-      "secure, solid, firm, substantial",
-      "rifle, gun",
-      "contagious (that can be transmitted to others; easily transmitted to others)"
+      "enigma, puzzle (anything difficult to understand or make sense of)",
+      "python",
+      "the act of scratching, scraping or grazing",
+      "oyster"
     ],
-    "answer": "small boat"
+    "answer": "python"
   },
   {
-    "question": "fougasse",
+    "question": "interrogation",
     "choices": [
-      "to avoid",
-      "to wash",
-      "crossing (action of traversing something)",
-      "(military) fougasse (land-mine)"
+      "change (money back after a transaction)",
+      "(in the plural) wedding",
+      "questioning, interrogation",
+      "promising"
     ],
-    "answer": "(military) fougasse (land-mine)"
+    "answer": "questioning, interrogation"
   },
   {
-    "question": "chocolat",
+    "question": "lanceur",
     "choices": [
-      "fire (something on fire which is out of control)",
-      "orifice",
-      "chocolate; chocolate-coloured",
-      "(informal) racket, hubbub (loud and unpleasant noise)"
+      "thrower",
+      "ash tree",
+      "contraction of information",
+      "(reflexive) to dissolve, break up, separate, disband"
     ],
-    "answer": "chocolate; chocolate-coloured"
+    "answer": "thrower"
   }
 ]
