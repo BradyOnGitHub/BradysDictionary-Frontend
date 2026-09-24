@@ -1,102 +1,102 @@
 [
   {
-    "question": "aviron",
+    "question": "pile",
     "choices": [
-      "highly, very",
-      "(sports, uncountable) rowing",
+      "bench (seat)",
+      "dagger",
       "bowl",
-      "watchman"
+      "heap, stack"
     ],
-    "answer": "(sports, uncountable) rowing"
+    "answer": "heap, stack"
   },
   {
-    "question": "règlement",
+    "question": "comptine",
     "choices": [
-      "The name of the Latin script letter T/t.",
-      "rules, regulations",
-      "sigh",
-      "(Hinduism) guru"
+      "gaiety",
+      "to suck",
+      "annoying, irritating",
+      "nursery rhyme (short poem or song for children)"
     ],
-    "answer": "rules, regulations"
+    "answer": "nursery rhyme (short poem or song for children)"
   },
   {
-    "question": "savoir",
+    "question": "divisionnaire",
     "choices": [
-      "(transitive) to provide, fit, equip (a person, machine, device etc. de with something)",
-      "fabric",
-      "(transitive) to denigrate, run down",
-      "to know (something)"
+      "baneful, disastrous (causing disaster)",
+      "connection",
+      "(relational) division",
+      "bastard"
     ],
-    "answer": "to know (something)"
+    "answer": "(relational) division"
   },
   {
-    "question": "autrement",
+    "question": "détourner",
     "choices": [
-      "to throw back",
-      "Hindu",
-      "differently, in another way or manner",
-      "small ball"
+      "(entomology) bug, stinkbug; true bug (a member of order Heteroptera)",
+      "to divert",
+      "(uncountable) speech",
+      "(transitive) to press, push"
     ],
-    "answer": "differently, in another way or manner"
+    "answer": "to divert"
   },
   {
-    "question": "intention",
+    "question": "jouet",
     "choices": [
-      "(transitive) to itch, to cause to feel itchy",
-      "intention",
+      "toy; plaything",
+      "government",
+      "dentist",
+      "secondly"
+    ],
+    "answer": "toy; plaything"
+  },
+  {
+    "question": "clebs",
+    "choices": [
+      "(informal) dog, mutt",
+      "(transitive) to burgle; to rob",
+      "present participle of stupéfier",
+      "to stroll, to walk around, to amble"
+    ],
+    "answer": "(informal) dog, mutt"
+  },
+  {
+    "question": "finance",
+    "choices": [
+      "finance",
       "one-eyed",
-      "glade, clearing (an area of land within a wood or forest devoid of trees)"
+      "renegade",
+      "(transitive) to peel"
     ],
-    "answer": "intention"
+    "answer": "finance"
   },
   {
-    "question": "déranger",
+    "question": "hiérarchie",
     "choices": [
-      "to bother; to disrupt",
-      "mouth",
-      "hideaway, hiding place",
-      "past participle of teindre"
+      "hierarchy",
+      "to bring (something)",
+      "past participle of troubler",
+      "good"
     ],
-    "answer": "to bother; to disrupt"
+    "answer": "hierarchy"
   },
   {
-    "question": "foot",
+    "question": "étiquette",
     "choices": [
-      "thanks (grateful feelings)",
-      "path, way, road",
-      "lining",
-      "(colloquial) association football; football, soccer"
+      "tie, bond",
+      "(transitive) to itch, to cause to feel itchy",
+      "tag, label",
+      "(archery, symbol) arrow (projectile or symbol)"
     ],
-    "answer": "(colloquial) association football; football, soccer"
+    "answer": "tag, label"
   },
   {
-    "question": "python",
+    "question": "fax",
     "choices": [
-      "enigma, puzzle (anything difficult to understand or make sense of)",
-      "python",
-      "the act of scratching, scraping or grazing",
-      "oyster"
+      "fax",
+      "healthy; in good health",
+      "to recommend, advocate",
+      "to shove, to bump into, to jostle"
     ],
-    "answer": "python"
-  },
-  {
-    "question": "interrogation",
-    "choices": [
-      "change (money back after a transaction)",
-      "(in the plural) wedding",
-      "questioning, interrogation",
-      "promising"
-    ],
-    "answer": "questioning, interrogation"
-  },
-  {
-    "question": "lanceur",
-    "choices": [
-      "thrower",
-      "ash tree",
-      "contraction of information",
-      "(reflexive) to dissolve, break up, separate, disband"
-    ],
-    "answer": "thrower"
+    "answer": "fax"
   }
 ]
