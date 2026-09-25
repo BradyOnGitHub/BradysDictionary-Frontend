@@ -1,102 +1,102 @@
 [
   {
-    "question": "pile",
+    "question": "campagne",
     "choices": [
-      "bench (seat)",
-      "dagger",
-      "bowl",
-      "heap, stack"
+      "serious",
+      "blunt",
+      "country (the country, rural area, as opposed to the town or city), countryside",
+      "bloody, bleeding (covered in blood)"
     ],
-    "answer": "heap, stack"
+    "answer": "country (the country, rural area, as opposed to the town or city), countryside"
   },
   {
-    "question": "comptine",
+    "question": "rafler",
     "choices": [
-      "gaiety",
-      "to suck",
-      "annoying, irritating",
-      "nursery rhyme (short poem or song for children)"
+      "(pronominal) to hasten [with de (+ infinitive)]",
+      "towards the inside; inwardly; internally",
+      "(informal) to swipe, nick, run off with (steal)",
+      "of (expresses belonging)"
     ],
-    "answer": "nursery rhyme (short poem or song for children)"
+    "answer": "(informal) to swipe, nick, run off with (steal)"
   },
   {
-    "question": "divisionnaire",
+    "question": "faille",
     "choices": [
-      "baneful, disastrous (causing disaster)",
-      "connection",
-      "(relational) division",
-      "bastard"
+      "(seismology) fault",
+      "extortion (the practice of extorting money or other property)",
+      "plug, stopper",
+      "emergency, urgency [from 1550; rare before late 18th c.]"
     ],
-    "answer": "(relational) division"
+    "answer": "(seismology) fault"
   },
   {
-    "question": "détourner",
+    "question": "médical",
     "choices": [
-      "(entomology) bug, stinkbug; true bug (a member of order Heteroptera)",
-      "to divert",
-      "(uncountable) speech",
-      "(transitive) to press, push"
+      "(colloquial) double Dutch",
+      "to stroll, to walk around, to amble",
+      "claim; complaint",
+      "medical"
     ],
-    "answer": "to divert"
+    "answer": "medical"
   },
   {
-    "question": "jouet",
+    "question": "projection",
     "choices": [
-      "toy; plaything",
-      "government",
-      "dentist",
-      "secondly"
+      "a counter, countertop, as of a store or bank",
+      "(psychology) projection",
+      "team member; member of a team",
+      "oven"
     ],
-    "answer": "toy; plaything"
+    "answer": "(psychology) projection"
   },
   {
-    "question": "clebs",
+    "question": "fatigue",
     "choices": [
-      "(informal) dog, mutt",
-      "(transitive) to burgle; to rob",
-      "present participle of stupéfier",
-      "to stroll, to walk around, to amble"
+      "tiredness",
+      "to solicit",
+      "to destine, to fate, to mean for",
+      "(cooking) dish"
     ],
-    "answer": "(informal) dog, mutt"
+    "answer": "tiredness"
   },
   {
-    "question": "finance",
+    "question": "suggestion",
     "choices": [
-      "finance",
-      "one-eyed",
-      "renegade",
-      "(transitive) to peel"
+      "medicine (field of study)",
+      "squirrel",
+      "suggestion; proposal",
+      "raven, crow (bird)"
     ],
-    "answer": "finance"
+    "answer": "suggestion; proposal"
   },
   {
-    "question": "hiérarchie",
+    "question": "promouvoir",
     "choices": [
-      "hierarchy",
-      "to bring (something)",
-      "past participle of troubler",
-      "good"
+      "past participle of coudre",
+      "missing in action person",
+      "to promote (advertise a product)",
+      "(transitive) to sink"
     ],
-    "answer": "hierarchy"
+    "answer": "to promote (advertise a product)"
   },
   {
-    "question": "étiquette",
+    "question": "cogner",
     "choices": [
-      "tie, bond",
-      "(transitive) to itch, to cause to feel itchy",
-      "tag, label",
-      "(archery, symbol) arrow (projectile or symbol)"
+      "(obsolete) praise; acclaim",
+      "to whack, to bash, to thump (hit hard)",
+      "everywhere",
+      "end, extremity, tip (of a physical object)"
     ],
-    "answer": "tag, label"
+    "answer": "to whack, to bash, to thump (hit hard)"
   },
   {
-    "question": "fax",
+    "question": "enchanté",
     "choices": [
-      "fax",
-      "healthy; in good health",
-      "to recommend, advocate",
-      "to shove, to bump into, to jostle"
+      "wreck (ship, car, etc.)",
+      "mortar (mixture for bonding building blocks) [from c. 1160]",
+      "enchanted, delighted",
+      "hat"
     ],
-    "answer": "fax"
+    "answer": "enchanted, delighted"
   }
 ]
