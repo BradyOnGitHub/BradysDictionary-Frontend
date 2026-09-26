@@ -1,102 +1,102 @@
 [
   {
-    "question": "campagne",
+    "question": "scélérat",
     "choices": [
-      "serious",
-      "blunt",
-      "country (the country, rural area, as opposed to the town or city), countryside",
-      "bloody, bleeding (covered in blood)"
+      "villain, criminal, scoundrel; evildoer",
+      "people (nation, distinct ethnic group)",
+      "crass",
+      "lane/laneway, alley/alleyway"
     ],
-    "answer": "country (the country, rural area, as opposed to the town or city), countryside"
+    "answer": "villain, criminal, scoundrel; evildoer"
   },
   {
-    "question": "rafler",
+    "question": "fromage",
     "choices": [
-      "(pronominal) to hasten [with de (+ infinitive)]",
-      "towards the inside; inwardly; internally",
-      "(informal) to swipe, nick, run off with (steal)",
-      "of (expresses belonging)"
+      "rebellion",
+      "pond, ornamental lake, basin",
+      "(transitive) to take off, take away or out",
+      "cheese"
     ],
-    "answer": "(informal) to swipe, nick, run off with (steal)"
+    "answer": "cheese"
   },
   {
-    "question": "faille",
+    "question": "élastique",
     "choices": [
-      "(seismology) fault",
-      "extortion (the practice of extorting money or other property)",
-      "plug, stopper",
-      "emergency, urgency [from 1550; rare before late 18th c.]"
+      "elastic",
+      "(Belgium, Upper Normandy, North-Eastern France) pitcher, jug",
+      "to squirt, to spurt",
+      "lightly"
     ],
-    "answer": "(seismology) fault"
+    "answer": "elastic"
   },
   {
-    "question": "médical",
+    "question": "laïus",
     "choices": [
-      "(colloquial) double Dutch",
-      "to stroll, to walk around, to amble",
-      "claim; complaint",
-      "medical"
+      "(derogatory) a speech or address, especially one that is meaningless, trite, verbose, pat, and/or insincere; ramblings",
+      "to smooth",
+      "how",
+      "lifelong partner, significant other"
     ],
-    "answer": "medical"
+    "answer": "(derogatory) a speech or address, especially one that is meaningless, trite, verbose, pat, and/or insincere; ramblings"
   },
   {
-    "question": "projection",
+    "question": "défectueux",
     "choices": [
-      "a counter, countertop, as of a store or bank",
-      "(psychology) projection",
-      "team member; member of a team",
-      "oven"
+      "blowing (act of expelling air from the mouth)",
+      "faulty, defective",
+      "shelf (flat, rigid structure, fixed at right angles to a wall or forming a part of a cabinet, desk, etc., and used to support, store or display objects)",
+      "(reflexive, reciprocal) to help one another"
     ],
-    "answer": "(psychology) projection"
+    "answer": "faulty, defective"
   },
   {
-    "question": "fatigue",
+    "question": "pellicule",
     "choices": [
-      "tiredness",
-      "to solicit",
-      "to destine, to fate, to mean for",
-      "(cooking) dish"
+      "blessed",
+      "stool",
+      "to fill with lead, to weigh down with lead",
+      "film, skin, thin layer"
     ],
-    "answer": "tiredness"
+    "answer": "film, skin, thin layer"
   },
   {
-    "question": "suggestion",
+    "question": "sûreté",
     "choices": [
-      "medicine (field of study)",
-      "squirrel",
-      "suggestion; proposal",
-      "raven, crow (bird)"
+      "to accomplish",
+      "the Moon",
+      "muscled, muscly, muscular",
+      "safety"
     ],
-    "answer": "suggestion; proposal"
+    "answer": "safety"
   },
   {
-    "question": "promouvoir",
+    "question": "dessein",
     "choices": [
-      "past participle of coudre",
-      "missing in action person",
-      "to promote (advertise a product)",
-      "(transitive) to sink"
+      "woman",
+      "film, skin, thin layer",
+      "(literary) intention; plan; design",
+      "impressive"
     ],
-    "answer": "to promote (advertise a product)"
+    "answer": "(literary) intention; plan; design"
   },
   {
-    "question": "cogner",
+    "question": "volonté",
     "choices": [
-      "(obsolete) praise; acclaim",
-      "to whack, to bash, to thump (hit hard)",
-      "everywhere",
-      "end, extremity, tip (of a physical object)"
+      "child (someone who is not yet an adult)",
+      "lecherous, perverted, depraved",
+      "(transitive) to raise, lift",
+      "wish, will"
     ],
-    "answer": "to whack, to bash, to thump (hit hard)"
+    "answer": "wish, will"
   },
   {
-    "question": "enchanté",
+    "question": "retenir",
     "choices": [
-      "wreck (ship, car, etc.)",
-      "mortar (mixture for bonding building blocks) [from c. 1160]",
-      "enchanted, delighted",
-      "hat"
+      "lighting",
+      "German (The German language)",
+      "badger",
+      "(transitive) to retain, hold"
     ],
-    "answer": "enchanted, delighted"
+    "answer": "(transitive) to retain, hold"
   }
 ]
