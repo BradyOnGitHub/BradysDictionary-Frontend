@@ -1,102 +1,102 @@
 [
   {
-    "question": "scélérat",
+    "question": "malmener",
     "choices": [
-      "villain, criminal, scoundrel; evildoer",
-      "people (nation, distinct ethnic group)",
-      "crass",
-      "lane/laneway, alley/alleyway"
+      "(intransitive) to abound",
+      "end, extremity, tip (of a physical object)",
+      "hole (place where a prisoner is kept in solitary confinement)",
+      "to mistreat"
     ],
-    "answer": "villain, criminal, scoundrel; evildoer"
+    "answer": "to mistreat"
   },
   {
-    "question": "fromage",
+    "question": "impact",
     "choices": [
-      "rebellion",
-      "pond, ornamental lake, basin",
-      "(transitive) to take off, take away or out",
-      "cheese"
+      "(vulgar, offensive or dated) negro",
+      "carefree, without worries",
+      "vinegar",
+      "(literally or figuratively) impact"
     ],
-    "answer": "cheese"
+    "answer": "(literally or figuratively) impact"
   },
   {
-    "question": "élastique",
+    "question": "émettre",
     "choices": [
-      "elastic",
-      "(Belgium, Upper Normandy, North-Eastern France) pitcher, jug",
-      "to squirt, to spurt",
-      "lightly"
+      "to collect, to cash",
+      "(transitive) to emit",
+      "ria",
+      "share"
     ],
-    "answer": "elastic"
+    "answer": "(transitive) to emit"
   },
   {
-    "question": "laïus",
+    "question": "face",
     "choices": [
-      "(derogatory) a speech or address, especially one that is meaningless, trite, verbose, pat, and/or insincere; ramblings",
-      "to smooth",
-      "how",
-      "lifelong partner, significant other"
+      "putter, placer (someone who puts or places)",
+      "mystic, one who practices mysticism",
+      "cleaning",
+      "(anatomy) face"
     ],
-    "answer": "(derogatory) a speech or address, especially one that is meaningless, trite, verbose, pat, and/or insincere; ramblings"
+    "answer": "(anatomy) face"
   },
   {
-    "question": "défectueux",
+    "question": "rivaliser",
     "choices": [
-      "blowing (act of expelling air from the mouth)",
-      "faulty, defective",
-      "shelf (flat, rigid structure, fixed at right angles to a wall or forming a part of a cabinet, desk, etc., and used to support, store or display objects)",
-      "(reflexive, reciprocal) to help one another"
+      "harassment; bullying",
+      "(intransitive) to compete",
+      "(singular or plural) embers",
+      "despicable, contemptible; good-for-nothing"
     ],
-    "answer": "faulty, defective"
+    "answer": "(intransitive) to compete"
   },
   {
-    "question": "pellicule",
+    "question": "intendant",
     "choices": [
-      "blessed",
-      "stool",
-      "to fill with lead, to weigh down with lead",
-      "film, skin, thin layer"
+      "intendant, administrator",
+      "light, illumination",
+      "(transitive) to repaint",
+      "tomb, grave"
     ],
-    "answer": "film, skin, thin layer"
+    "answer": "intendant, administrator"
   },
   {
-    "question": "sûreté",
+    "question": "commandant",
     "choices": [
-      "to accomplish",
-      "the Moon",
-      "muscled, muscly, muscular",
-      "safety"
+      "firestriker",
+      "commander (function)",
+      "(transitive) to twist; to bend",
+      "luxury"
     ],
-    "answer": "safety"
+    "answer": "commander (function)"
   },
   {
-    "question": "dessein",
+    "question": "court",
     "choices": [
-      "woman",
-      "film, skin, thin layer",
-      "(literary) intention; plan; design",
-      "impressive"
+      "short",
+      "(pathology) rheumatism",
+      "rational; reasonable",
+      "slap on the cheek"
     ],
-    "answer": "(literary) intention; plan; design"
+    "answer": "short"
   },
   {
-    "question": "volonté",
+    "question": "éduquer",
     "choices": [
-      "child (someone who is not yet an adult)",
-      "lecherous, perverted, depraved",
-      "(transitive) to raise, lift",
-      "wish, will"
+      "snot (mucus)",
+      "(transitive) to educate",
+      "(absolutive) to depend (to be uncertain or contingent)",
+      "scabies; mange"
     ],
-    "answer": "wish, will"
+    "answer": "(transitive) to educate"
   },
   {
-    "question": "retenir",
+    "question": "fuite",
     "choices": [
-      "lighting",
-      "German (The German language)",
-      "badger",
-      "(transitive) to retain, hold"
+      "(informal) very, a lot",
+      "to auction",
+      "escape; getaway; flight (e.g. from prison)",
+      "region; area"
     ],
-    "answer": "(transitive) to retain, hold"
+    "answer": "escape; getaway; flight (e.g. from prison)"
   }
 ]
