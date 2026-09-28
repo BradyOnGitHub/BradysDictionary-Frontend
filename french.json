@@ -1,102 +1,102 @@
 [
   {
-    "question": "malmener",
+    "question": "fougasse",
     "choices": [
-      "(intransitive) to abound",
-      "end, extremity, tip (of a physical object)",
-      "hole (place where a prisoner is kept in solitary confinement)",
-      "to mistreat"
+      "(military) fougasse (land-mine)",
+      "flesh",
+      "unfinished, uncompleted",
+      "butt (of rifle etc.)"
     ],
-    "answer": "to mistreat"
+    "answer": "(military) fougasse (land-mine)"
   },
   {
-    "question": "impact",
+    "question": "adjuger",
     "choices": [
-      "(vulgar, offensive or dated) negro",
-      "carefree, without worries",
-      "vinegar",
-      "(literally or figuratively) impact"
+      "maggoty, worm-eaten",
+      "(historical) melancholy, black bile (one of the four humours of ancient and mediaeval physiology, that was believed to be secreted by the kidneys and spleen and to cause melancholy and sadness when present in excess)",
+      "donjon, keep",
+      "to auction"
     ],
-    "answer": "(literally or figuratively) impact"
+    "answer": "to auction"
   },
   {
-    "question": "émettre",
+    "question": "irréparable",
     "choices": [
-      "to collect, to cash",
-      "(transitive) to emit",
-      "ria",
-      "share"
+      "to retort",
+      "(transitive) to want, wish, desire",
+      "irreparable, unrepairable, unfixable",
+      "bid (in a sale, an auction or the card game bridge)"
     ],
-    "answer": "(transitive) to emit"
+    "answer": "irreparable, unrepairable, unfixable"
   },
   {
-    "question": "face",
+    "question": "paré",
     "choices": [
-      "putter, placer (someone who puts or places)",
-      "mystic, one who practices mysticism",
-      "cleaning",
-      "(anatomy) face"
+      "past participle of parer",
+      "unimaginable",
+      "mastery",
+      "bench (seat)"
     ],
-    "answer": "(anatomy) face"
+    "answer": "past participle of parer"
   },
   {
-    "question": "rivaliser",
+    "question": "filtre",
     "choices": [
-      "harassment; bullying",
-      "(intransitive) to compete",
-      "(singular or plural) embers",
-      "despicable, contemptible; good-for-nothing"
+      "physical description (BOLO, APB)",
+      "filter",
+      "(transitive) to get even (with)",
+      "runner"
     ],
-    "answer": "(intransitive) to compete"
+    "answer": "filter"
   },
   {
-    "question": "intendant",
+    "question": "sillonner",
     "choices": [
-      "intendant, administrator",
-      "light, illumination",
-      "(transitive) to repaint",
-      "tomb, grave"
+      "connecting rod",
+      "to nail (to attach using a nail)",
+      "amnesic",
+      "to crisscross; cut across; furrow; to go back and forth (across)"
     ],
-    "answer": "intendant, administrator"
+    "answer": "to crisscross; cut across; furrow; to go back and forth (across)"
   },
   {
-    "question": "commandant",
+    "question": "feindre",
     "choices": [
-      "firestriker",
-      "commander (function)",
-      "(transitive) to twist; to bend",
-      "luxury"
+      "(colloquial) to slave away (to work very hard)",
+      "team",
+      "(transitive or catenative) to fake; to feign",
+      "(espionage) to monitor, to survey, to watch"
     ],
-    "answer": "commander (function)"
+    "answer": "(transitive or catenative) to fake; to feign"
   },
   {
-    "question": "court",
+    "question": "hebdomadaire",
     "choices": [
-      "short",
-      "(pathology) rheumatism",
-      "rational; reasonable",
-      "slap on the cheek"
+      "to fall",
+      "weekly",
+      "(colloquial) work",
+      "Emotionally understanding; compassionate"
     ],
-    "answer": "short"
+    "answer": "weekly"
   },
   {
-    "question": "éduquer",
+    "question": "sentir",
     "choices": [
-      "snot (mucus)",
-      "(transitive) to educate",
-      "(absolutive) to depend (to be uncertain or contingent)",
-      "scabies; mange"
+      "(intransitive) to smell (to have a certain odor)",
+      "to yawn",
+      "comb (toothed implement)",
+      "past participle of spécialiser"
     ],
-    "answer": "(transitive) to educate"
+    "answer": "(intransitive) to smell (to have a certain odor)"
   },
   {
-    "question": "fuite",
+    "question": "maladie",
     "choices": [
-      "(informal) very, a lot",
-      "to auction",
-      "escape; getaway; flight (e.g. from prison)",
-      "region; area"
+      "reminder",
+      "illness, disease",
+      "chemist (scientist of chemistry)",
+      "space"
     ],
-    "answer": "escape; getaway; flight (e.g. from prison)"
+    "answer": "illness, disease"
   }
 ]
