@@ -1,102 +1,102 @@
 [
   {
-    "question": "fougasse",
+    "question": "extraction",
     "choices": [
-      "(military) fougasse (land-mine)",
-      "flesh",
-      "unfinished, uncompleted",
-      "butt (of rifle etc.)"
+      "extraction",
+      "(historical) jailer, gaoler",
+      "author",
+      "halt, pause, break"
     ],
-    "answer": "(military) fougasse (land-mine)"
+    "answer": "extraction"
   },
   {
-    "question": "adjuger",
+    "question": "dévoué",
     "choices": [
-      "maggoty, worm-eaten",
-      "(historical) melancholy, black bile (one of the four humours of ancient and mediaeval physiology, that was believed to be secreted by the kidneys and spleen and to cause melancholy and sadness when present in excess)",
-      "donjon, keep",
-      "to auction"
+      "softness, tenderness",
+      "past participle of dévouer",
+      "wolf",
+      "(transitive) to expiate, to make amends for, atone for"
     ],
-    "answer": "to auction"
+    "answer": "past participle of dévouer"
   },
   {
-    "question": "irréparable",
+    "question": "parc",
     "choices": [
-      "to retort",
-      "(transitive) to want, wish, desire",
-      "irreparable, unrepairable, unfixable",
-      "bid (in a sale, an auction or the card game bridge)"
+      "clown, buffoon",
+      "rain",
+      "Gaulish",
+      "park"
     ],
-    "answer": "irreparable, unrepairable, unfixable"
+    "answer": "park"
   },
   {
-    "question": "paré",
+    "question": "tranche",
     "choices": [
-      "past participle of parer",
-      "unimaginable",
-      "mastery",
-      "bench (seat)"
+      "(transitive) to slap, knock, beat",
+      "to assemble",
+      "worthy",
+      "slice"
     ],
-    "answer": "past participle of parer"
+    "answer": "slice"
   },
   {
-    "question": "filtre",
+    "question": "gitan",
     "choices": [
-      "physical description (BOLO, APB)",
-      "filter",
-      "(transitive) to get even (with)",
-      "runner"
+      "gypsy",
+      "to snore",
+      "(chiefly in the plural) reunion",
+      "mortar (mixture for bonding building blocks) [from c. 1160]"
     ],
-    "answer": "filter"
+    "answer": "gypsy"
   },
   {
-    "question": "sillonner",
+    "question": "méfiant",
     "choices": [
-      "connecting rod",
-      "to nail (to attach using a nail)",
-      "amnesic",
-      "to crisscross; cut across; furrow; to go back and forth (across)"
+      "(transitive) to pity",
+      "wary",
+      "(vulgar, slang, chiefly in the plural) shitter, toilet",
+      "to hate, despise, scorn, disdain"
     ],
-    "answer": "to crisscross; cut across; furrow; to go back and forth (across)"
+    "answer": "wary"
   },
   {
-    "question": "feindre",
+    "question": "cirque",
     "choices": [
-      "(colloquial) to slave away (to work very hard)",
-      "team",
-      "(transitive or catenative) to fake; to feign",
-      "(espionage) to monitor, to survey, to watch"
+      "to see again",
+      "(obsolete) drummer",
+      "to affix, bind, tie something to something else, especially with rope",
+      "circus"
     ],
-    "answer": "(transitive or catenative) to fake; to feign"
+    "answer": "circus"
   },
   {
-    "question": "hebdomadaire",
+    "question": "renverser",
     "choices": [
-      "to fall",
-      "weekly",
-      "(colloquial) work",
-      "Emotionally understanding; compassionate"
+      "(transitive) to turn over, turn upside down",
+      "fitted carpet",
+      "sleepwalking",
+      "(archaic) manner of being seated, situation"
     ],
-    "answer": "weekly"
+    "answer": "(transitive) to turn over, turn upside down"
   },
   {
-    "question": "sentir",
+    "question": "point",
     "choices": [
-      "(intransitive) to smell (to have a certain odor)",
-      "to yawn",
-      "comb (toothed implement)",
-      "past participle of spécialiser"
+      "number",
+      "point (small mark)",
+      "bile",
+      "morning (time between sunrise and noon)"
     ],
-    "answer": "(intransitive) to smell (to have a certain odor)"
+    "answer": "point (small mark)"
   },
   {
-    "question": "maladie",
+    "question": "yang",
     "choices": [
-      "reminder",
-      "illness, disease",
-      "chemist (scientist of chemistry)",
-      "space"
+      "raspberry (fruit)",
+      "to squash",
+      "yang",
+      "(intransitive) to be reborn, to be born again"
     ],
-    "answer": "illness, disease"
+    "answer": "yang"
   }
 ]
