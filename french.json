@@ -1,102 +1,102 @@
 [
   {
-    "question": "extraction",
+    "question": "ténèbres",
     "choices": [
-      "extraction",
-      "(historical) jailer, gaoler",
-      "author",
-      "halt, pause, break"
+      "(plural only) darkness, the shadows",
+      "usurer, moneylender; loan shark",
+      "funny, amusing",
+      "inflection of partir:"
     ],
-    "answer": "extraction"
+    "answer": "(plural only) darkness, the shadows"
   },
   {
-    "question": "dévoué",
+    "question": "flotter",
     "choices": [
-      "softness, tenderness",
-      "past participle of dévouer",
-      "wolf",
-      "(transitive) to expiate, to make amends for, atone for"
+      "box",
+      "(intransitive) to weaken, to sicken, to go downhill",
+      "trip, journey, voyage",
+      "(intransitive) to float"
     ],
-    "answer": "past participle of dévouer"
+    "answer": "(intransitive) to float"
   },
   {
-    "question": "parc",
+    "question": "usage",
     "choices": [
-      "clown, buffoon",
-      "rain",
-      "Gaulish",
-      "park"
+      "harmless",
+      "nickname (familiar, invented given name)",
+      "betrayer, traitor",
+      "usage, use"
     ],
-    "answer": "park"
+    "answer": "usage, use"
   },
   {
-    "question": "tranche",
+    "question": "dot",
     "choices": [
-      "(transitive) to slap, knock, beat",
-      "to assemble",
-      "worthy",
-      "slice"
+      "bread",
+      "(colloquial, chiefly Meridional) shoo, let's go!",
+      "crumb (of bread or cake)",
+      "dowry, marriage portion"
     ],
-    "answer": "slice"
+    "answer": "dowry, marriage portion"
   },
   {
-    "question": "gitan",
+    "question": "plombier",
     "choices": [
-      "gypsy",
-      "to snore",
-      "(chiefly in the plural) reunion",
-      "mortar (mixture for bonding building blocks) [from c. 1160]"
+      "plumber (one who furnishes, fits, and repairs pipes and other apparatus for the conveyance of water, gas, or drainage)",
+      "present participle of revenir",
+      "head of hair",
+      "(ordinal number) tenth"
     ],
-    "answer": "gypsy"
+    "answer": "plumber (one who furnishes, fits, and repairs pipes and other apparatus for the conveyance of water, gas, or drainage)"
   },
   {
-    "question": "méfiant",
+    "question": "changeant",
     "choices": [
-      "(transitive) to pity",
-      "wary",
-      "(vulgar, slang, chiefly in the plural) shitter, toilet",
-      "to hate, despise, scorn, disdain"
+      "passenger",
+      "kindness, favour, good deed",
+      "present participle of changer",
+      "his, her, its, their, one's (when referring to a plural noun)"
     ],
-    "answer": "wary"
+    "answer": "present participle of changer"
   },
   {
-    "question": "cirque",
+    "question": "envisager",
     "choices": [
-      "to see again",
-      "(obsolete) drummer",
-      "to affix, bind, tie something to something else, especially with rope",
-      "circus"
+      "seed (fertilized grain)",
+      "to blow",
+      "to envisage; to contemplate",
+      "to scorn"
     ],
-    "answer": "circus"
+    "answer": "to envisage; to contemplate"
   },
   {
-    "question": "renverser",
+    "question": "lampadaire",
     "choices": [
-      "(transitive) to turn over, turn upside down",
-      "fitted carpet",
-      "sleepwalking",
-      "(archaic) manner of being seated, situation"
+      "standard lamp",
+      "van",
+      "carillon (set of bells, often in a bell tower)",
+      "dustman, garbage man, garbage collector (person employed to collect refuse from people's homes and take it to be processed)"
     ],
-    "answer": "(transitive) to turn over, turn upside down"
+    "answer": "standard lamp"
   },
   {
-    "question": "point",
+    "question": "remarquer",
     "choices": [
-      "number",
-      "point (small mark)",
-      "bile",
-      "morning (time between sunrise and noon)"
+      "(transitive) to blow (someone's) nose",
+      "to rewrite (to write anew)",
+      "teacher, professor",
+      "to observe"
     ],
-    "answer": "point (small mark)"
+    "answer": "to observe"
   },
   {
-    "question": "yang",
+    "question": "brouter",
     "choices": [
-      "raspberry (fruit)",
-      "to squash",
-      "yang",
-      "(intransitive) to be reborn, to be born again"
+      "(ambitransitive) to graze; to browse",
+      "defeat, loss",
+      "below, under",
+      "weasel (specifically, the least weasel)"
     ],
-    "answer": "yang"
+    "answer": "(ambitransitive) to graze; to browse"
   }
 ]
