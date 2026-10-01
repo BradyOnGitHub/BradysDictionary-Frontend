@@ -1,102 +1,102 @@
 [
   {
-    "question": "ténèbres",
+    "question": "saut",
     "choices": [
-      "(plural only) darkness, the shadows",
-      "usurer, moneylender; loan shark",
-      "funny, amusing",
-      "inflection of partir:"
+      "jump",
+      "to sympathise, empathise, feel for",
+      "(vulgar) mess, jumble",
+      "(transitive) to curse"
     ],
-    "answer": "(plural only) darkness, the shadows"
+    "answer": "jump"
   },
   {
-    "question": "flotter",
+    "question": "facile",
     "choices": [
-      "box",
-      "(intransitive) to weaken, to sicken, to go downhill",
-      "trip, journey, voyage",
-      "(intransitive) to float"
+      "easy, simple",
+      "to lick",
+      "(transitive) to shelter, to harbour",
+      "florin (currency)"
     ],
-    "answer": "(intransitive) to float"
+    "answer": "easy, simple"
   },
   {
-    "question": "usage",
+    "question": "lingerie",
     "choices": [
-      "harmless",
-      "nickname (familiar, invented given name)",
-      "betrayer, traitor",
-      "usage, use"
+      "interruption",
+      "linen room",
+      "garlic",
+      "weak"
     ],
-    "answer": "usage, use"
+    "answer": "linen room"
   },
   {
-    "question": "dot",
+    "question": "caviar",
     "choices": [
-      "bread",
-      "(colloquial, chiefly Meridional) shoo, let's go!",
-      "crumb (of bread or cake)",
-      "dowry, marriage portion"
+      "(of a place, usually literary) distant, remote, far-off",
+      "caviar",
+      "job, profession, trade",
+      "dive"
     ],
-    "answer": "dowry, marriage portion"
+    "answer": "caviar"
   },
   {
-    "question": "plombier",
+    "question": "convaincant",
     "choices": [
-      "plumber (one who furnishes, fits, and repairs pipes and other apparatus for the conveyance of water, gas, or drainage)",
-      "present participle of revenir",
-      "head of hair",
-      "(ordinal number) tenth"
+      "rest, ease, repose",
+      "crossroads",
+      "mirror",
+      "convincing"
     ],
-    "answer": "plumber (one who furnishes, fits, and repairs pipes and other apparatus for the conveyance of water, gas, or drainage)"
+    "answer": "convincing"
   },
   {
-    "question": "changeant",
+    "question": "réputé",
     "choices": [
-      "passenger",
-      "kindness, favour, good deed",
-      "present participle of changer",
-      "his, her, its, their, one's (when referring to a plural noun)"
+      "synchronization",
+      "past participle of réputer",
+      "owner (one who owns something)",
+      "twenty"
     ],
-    "answer": "present participle of changer"
+    "answer": "past participle of réputer"
   },
   {
-    "question": "envisager",
+    "question": "entraver",
     "choices": [
-      "seed (fertilized grain)",
-      "to blow",
-      "to envisage; to contemplate",
-      "to scorn"
+      "herd (of horses, bulls, elephants, buffalo etc.)",
+      "noon, midday (time of the day at which the sun reaches its highest point)",
+      "nastiness, malice, wickedness",
+      "to hinder; to impede"
     ],
-    "answer": "to envisage; to contemplate"
+    "answer": "to hinder; to impede"
   },
   {
-    "question": "lampadaire",
+    "question": "explosion",
     "choices": [
-      "standard lamp",
-      "van",
-      "carillon (set of bells, often in a bell tower)",
-      "dustman, garbage man, garbage collector (person employed to collect refuse from people's homes and take it to be processed)"
+      "herbal tea; tisane",
+      "explosion",
+      "short",
+      "sale"
     ],
-    "answer": "standard lamp"
+    "answer": "explosion"
   },
   {
-    "question": "remarquer",
+    "question": "pneu",
     "choices": [
-      "(transitive) to blow (someone's) nose",
-      "to rewrite (to write anew)",
-      "teacher, professor",
-      "to observe"
+      "butt (of rifle etc.)",
+      "tyre, tire",
+      "blow, hit, strike",
+      "baby"
     ],
-    "answer": "to observe"
+    "answer": "tyre, tire"
   },
   {
-    "question": "brouter",
+    "question": "composition",
     "choices": [
-      "(ambitransitive) to graze; to browse",
-      "defeat, loss",
-      "below, under",
-      "weasel (specifically, the least weasel)"
+      "bank; shore; coast",
+      "composition, makeup",
+      "mover, house mover (person employed to help people move their possessions from one residence to another)",
+      "extortion (the practice of extorting money or other property)"
     ],
-    "answer": "(ambitransitive) to graze; to browse"
+    "answer": "composition, makeup"
   }
 ]
