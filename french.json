@@ -1,102 +1,102 @@
 [
   {
-    "question": "saut",
+    "question": "marron",
     "choices": [
-      "jump",
-      "to sympathise, empathise, feel for",
-      "(vulgar) mess, jumble",
-      "(transitive) to curse"
+      "The second letter of the French alphabet, written in the Latin script.",
+      "inflection of cisailler:",
+      "worker, labourer (manual worker); workman",
+      "horse-chestnut"
     ],
-    "answer": "jump"
+    "answer": "horse-chestnut"
   },
   {
-    "question": "facile",
+    "question": "corne",
     "choices": [
-      "easy, simple",
-      "to lick",
-      "(transitive) to shelter, to harbour",
-      "florin (currency)"
+      "reconciliation, making up (re-establishment of friendly relations; conciliation, rapprochement)",
+      "work; labor",
+      "(countable) horn",
+      "seat, chair"
     ],
-    "answer": "easy, simple"
+    "answer": "(countable) horn"
   },
   {
-    "question": "lingerie",
+    "question": "gardé",
     "choices": [
-      "interruption",
-      "linen room",
-      "garlic",
-      "weak"
+      "noise, din, uproar, racket",
+      "dart",
+      "past participle of garder",
+      "accord; agreement"
     ],
-    "answer": "linen room"
+    "answer": "past participle of garder"
   },
   {
-    "question": "caviar",
+    "question": "inhabité",
     "choices": [
-      "(of a place, usually literary) distant, remote, far-off",
-      "caviar",
-      "job, profession, trade",
-      "dive"
+      "call number",
+      "(medicine) sling",
+      "to prove",
+      "uninhabited"
     ],
-    "answer": "caviar"
+    "answer": "uninhabited"
   },
   {
-    "question": "convaincant",
+    "question": "enrayer",
     "choices": [
-      "rest, ease, repose",
-      "crossroads",
-      "mirror",
-      "convincing"
+      "(intransitive) to bear, veer (change direction slightly)",
+      "forbidden, prohibited, off-limits",
+      "(archaic) delay",
+      "to slow down, brake"
     ],
-    "answer": "convincing"
+    "answer": "to slow down, brake"
   },
   {
-    "question": "réputé",
+    "question": "trace",
     "choices": [
-      "synchronization",
-      "past participle of réputer",
-      "owner (one who owns something)",
-      "twenty"
+      "first/second-person singular past historic of promettre",
+      "trace",
+      "to unleash",
+      "spirit"
     ],
-    "answer": "past participle of réputer"
+    "answer": "trace"
   },
   {
-    "question": "entraver",
+    "question": "gestion",
     "choices": [
-      "herd (of horses, bulls, elephants, buffalo etc.)",
-      "noon, midday (time of the day at which the sun reaches its highest point)",
-      "nastiness, malice, wickedness",
-      "to hinder; to impede"
+      "easily",
+      "administration",
+      "to set fire to",
+      "(transitive) to generate"
     ],
-    "answer": "to hinder; to impede"
+    "answer": "administration"
   },
   {
-    "question": "explosion",
+    "question": "masser",
     "choices": [
-      "herbal tea; tisane",
-      "explosion",
-      "short",
-      "sale"
+      "to murmur",
+      "to massage",
+      "cowpat",
+      "sound"
     ],
-    "answer": "explosion"
+    "answer": "to massage"
   },
   {
-    "question": "pneu",
+    "question": "endormi",
     "choices": [
-      "butt (of rifle etc.)",
-      "tyre, tire",
-      "blow, hit, strike",
-      "baby"
+      "slot or timeslot, a defined period within a schedule",
+      "fresco",
+      "(archaic) noble; gallant, courteous",
+      "past participle of endormir"
     ],
-    "answer": "tyre, tire"
+    "answer": "past participle of endormir"
   },
   {
-    "question": "composition",
+    "question": "choeur",
     "choices": [
-      "bank; shore; coast",
-      "composition, makeup",
-      "mover, house mover (person employed to help people move their possessions from one residence to another)",
-      "extortion (the practice of extorting money or other property)"
+      "push, thrust",
+      "almost",
+      "nonstandard spelling of chœur",
+      "fitted carpet"
     ],
-    "answer": "composition, makeup"
+    "answer": "nonstandard spelling of chœur"
   }
 ]
