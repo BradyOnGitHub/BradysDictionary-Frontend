@@ -1,102 +1,102 @@
 [
   {
-    "question": "marron",
+    "question": "crier",
     "choices": [
-      "The second letter of the French alphabet, written in the Latin script.",
-      "inflection of cisailler:",
-      "worker, labourer (manual worker); workman",
-      "horse-chestnut"
+      "to cry out",
+      "dawn, sunrise, daybreak",
+      "tournament",
+      "earth; soil"
     ],
-    "answer": "horse-chestnut"
+    "answer": "to cry out"
   },
   {
-    "question": "corne",
+    "question": "tel",
     "choices": [
-      "reconciliation, making up (re-establishment of friendly relations; conciliation, rapprochement)",
-      "work; labor",
-      "(countable) horn",
-      "seat, chair"
+      "such",
+      "brief (of short duration)",
+      "on",
+      "to swear (to promise by oath)"
     ],
-    "answer": "(countable) horn"
+    "answer": "such"
   },
   {
-    "question": "gardé",
+    "question": "crèche",
     "choices": [
-      "noise, din, uproar, racket",
-      "dart",
-      "past participle of garder",
-      "accord; agreement"
+      "to ogle, leer",
+      "to miss",
+      "crèche (the Nativity scene)",
+      "left-handed"
     ],
-    "answer": "past participle of garder"
+    "answer": "crèche (the Nativity scene)"
   },
   {
-    "question": "inhabité",
+    "question": "pacifique",
     "choices": [
-      "call number",
-      "(medicine) sling",
-      "to prove",
-      "uninhabited"
+      "pulling (action of pulling)",
+      "light bulb",
+      "solidary, showing solidarity (with)",
+      "pacific"
     ],
-    "answer": "uninhabited"
+    "answer": "pacific"
   },
   {
-    "question": "enrayer",
+    "question": "nos",
     "choices": [
-      "(intransitive) to bear, veer (change direction slightly)",
-      "forbidden, prohibited, off-limits",
-      "(archaic) delay",
-      "to slow down, brake"
+      "fly (insect)",
+      "plural of notre; our",
+      "to treat; to nurse",
+      "(transitive) to soak, to drench, to wet"
     ],
-    "answer": "to slow down, brake"
+    "answer": "plural of notre; our"
   },
   {
-    "question": "trace",
+    "question": "abeille",
     "choices": [
-      "first/second-person singular past historic of promettre",
-      "trace",
-      "to unleash",
-      "spirit"
+      "(colloquial) shooter, pistol, gat (gun)",
+      "skirt, skirts (of a jacket, morning coat etc.); basque (of waistcoat)",
+      "psychologist",
+      "bee, honey bee"
     ],
-    "answer": "trace"
+    "answer": "bee, honey bee"
   },
   {
-    "question": "gestion",
+    "question": "bronzage",
     "choices": [
-      "easily",
-      "administration",
-      "to set fire to",
-      "(transitive) to generate"
+      "catcher",
+      "(metallurgy) bronzing",
+      "hey, oi",
+      "pot, cooking pot, marmite"
     ],
-    "answer": "administration"
+    "answer": "(metallurgy) bronzing"
   },
   {
-    "question": "masser",
+    "question": "adultère",
     "choices": [
-      "to murmur",
-      "to massage",
-      "cowpat",
-      "sound"
+      "cynicism (skeptical, scornful or pessimistic attitude)",
+      "adulterous",
+      "villain",
+      "(transitive) to terrify, horrify"
     ],
-    "answer": "to massage"
+    "answer": "adulterous"
   },
   {
-    "question": "endormi",
+    "question": "détendu",
     "choices": [
-      "slot or timeslot, a defined period within a schedule",
-      "fresco",
-      "(archaic) noble; gallant, courteous",
-      "past participle of endormir"
+      "to babble, splutter, stammer",
+      "loose, slack",
+      "delivery",
+      "(transitive) to wither"
     ],
-    "answer": "past participle of endormir"
+    "answer": "loose, slack"
   },
   {
-    "question": "choeur",
+    "question": "âge",
     "choices": [
-      "push, thrust",
-      "almost",
-      "nonstandard spelling of chœur",
-      "fitted carpet"
+      "age",
+      "one who pulls",
+      "past participle of enfermer",
+      "reputation, legend, renown"
     ],
-    "answer": "nonstandard spelling of chœur"
+    "answer": "age"
   }
 ]
